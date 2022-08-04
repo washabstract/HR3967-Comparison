@@ -1,6 +1,6 @@
 [Congressional Bills 117th Congress]
 [From the U.S. Government Publishing Office]
-[H.R. 3967 Introduced in House (IH)]
+[H.R. 3967 Reported in House (RH)]
 
 
 
@@ -8,10 +8,12 @@
 
 
 
-
+                                                 Union Calendar No. 179
 117th CONGRESS
-  1st Session
+  2d Session
                                 H. R. 3967
+
+                      [Report No. 117-249, Part I]
 
    To improve health care and benefits for veterans exposed to toxic 
                   substances, and for other purposes.
@@ -25,15 +27,45 @@ _______________________________________________________________________
                              June 17, 2021
 
 Mr. Takano (for himself, Mrs. Luria, Mr. Ruiz, Ms. Slotkin, Mr. Trone, 
-Ms. Brownley, Mr. Levin of California, Mr. Pappas, Mr. Lamb, Mr. Brown, 
-  Mr. Gallego, Ms. Underwood, Mr. Sablan, Mr. Mrvan, Mr. Allred, Ms. 
-Kaptur, Ms. Lois Frankel of Florida, Mr. Ryan, Mr. McGovern, Mr. Harder 
-  of California, Mr. Fitzpatrick, Mr. Kilmer, Mr. Soto, Ms. Meng, Ms. 
- Strickland, and Ms. Spanberger) introduced the following bill; which 
-was referred to the Committee on Veterans' Affairs, and in addition to 
-   the Committee on Armed Services, for a period to be subsequently 
-   determined by the Speaker, in each case for consideration of such 
- provisions as fall within the jurisdiction of the committee concerned
+Ms. Brownley, Mr. Levin of California, Mr. Pappas, Mr. Lamb, Mr. Brown 
+  of Maryland, Mr. Gallego, Ms. Underwood, Mr. Sablan, Mr. Mrvan, Mr. 
+    Allred, Ms. Kaptur, Ms. Lois Frankel of Florida, Mr. Ryan, Mr. 
+ McGovern, Mr. Harder of California, Mr. Fitzpatrick, Mr. Kilmer, Mr. 
+  Soto, Ms. Meng, Ms. Strickland, and Ms. Spanberger) introduced the 
+   following bill; which was referred to the Committee on Veterans' 
+  Affairs, and in addition to the Committee on Armed Services, for a 
+ period to be subsequently determined by the Speaker, in each case for 
+consideration of such provisions as fall within the jurisdiction of the 
+                          committee concerned
+
+                           February 22, 2022
+
+Additional sponsors: Mrs. Kirkpatrick, Ms. Norton, Mr. Malinowski, Ms. 
+ Newman, Ms. Sherrill, Mr. Khanna, Mr. Rush, Mr. Aguilar, Mrs. Hayes, 
+Mrs. Trahan, Ms. Omar, Mr. Levin of Michigan, Mr. O'Halleran, Mr. Kind, 
+ Mr. Carson, Mr. San Nicolas, Mr. Perlmutter, Mr. Neguse, Ms. Lofgren, 
+Mrs. Dingell, Ms. Davids of Kansas, Mr. Cohen, Mrs. Axne, Mr. Grijalva, 
+  Mr. Grothman, Mr. Cooper, Mr. Moulton, Mr. Pocan, Mr. Swalwell, Mr. 
+       Tonko, Ms. Blunt Rochester, Ms. Bonamici, Ms. Porter, Mr. 
+ Krishnamoorthi, Mr. Blumenauer, Mrs. Bustos, Ms. DeGette, Mr. Jones, 
+ Mr. Courtney, Ms. Pingree, Ms. Bourdeaux, Ms. Manning, Mr. Welch, Ms. 
+Leger Fernandez, Mr. Langevin, Mr. Keating, Mr. Bishop of Georgia, Mr. 
+ Lieu, Mr. Cline, Mr. Larsen of Washington, Ms. Kelly of Illinois, Mr. 
+    Lynch, Mrs. Torres of California, Ms. Williams of Georgia, Ms. 
+   Houlahan, Ms. Sewell, Mr. Casten, Mr. Cicilline, Mr. Schiff, Mr. 
+Cartwright, Mr. Espaillat, Mr. Horsford, Mr. DeFazio, Mr. Schrader, Mr. 
+ Carbajal, Ms. Castor of Florida, Ms. Jacobs of California, Mr. Castro 
+   of Texas, Mr. Raskin, Mrs. Cherfilus-McCormick, Ms. Scanlon, Mr. 
+            Stanton, Mr. Costa, Mr. Gottheimer, and Ms. Bass
+
+                           February 22, 2022
+
+            Reported from the Committee on Veterans' Affairs
+
+                           February 22, 2022
+
+ Committee on Armed Services discharged; committed to the Committee of 
+  the Whole House on the State of the Union and ordered to be printed
 
 _______________________________________________________________________
 
@@ -43,6 +75,10 @@ _______________________________________________________________________
  
    To improve health care and benefits for veterans exposed to toxic 
                   substances, and for other purposes.
+
+
+ 
+
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
@@ -1668,3 +1704,30 @@ Exposure Record.
     (c) Toxic Exposure Defined.--In this section, the term ``toxic 
 exposure'' has the meaning given that term in section 101(37) of title 
 38, United States Code, as added by section 102(b).
+                                                 Union Calendar No. 179
+
+117th CONGRESS
+
+  2d Session
+
+                               H. R. 3967
+
+                      [Report No. 117-249, Part I]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+   To improve health care and benefits for veterans exposed to toxic 
+                  substances, and for other purposes.
+
+_______________________________________________________________________
+
+                           February 22, 2022
+
+            Reported from the Committee on Veterans' Affairs
+
+                           February 22, 2022
+
+ Committee on Armed Services discharged; committed to the Committee of 
+  the Whole House on the State of the Union and ordered to be printed
