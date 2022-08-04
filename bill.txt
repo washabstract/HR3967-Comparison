@@ -1,84 +1,50 @@
 [Congressional Bills 117th Congress]
 [From the U.S. Government Publishing Office]
-[H.R. 3967 Reported in House (RH)]
+[H.R. 3967 Engrossed in House (EH)]
 
 
-
-
-
-
-
-                                                 Union Calendar No. 179
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 117th CONGRESS
   2d Session
                                 H. R. 3967
 
-                      [Report No. 117-249, Part I]
-
-   To improve health care and benefits for veterans exposed to toxic 
-                  substances, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                             June 17, 2021
-
-Mr. Takano (for himself, Mrs. Luria, Mr. Ruiz, Ms. Slotkin, Mr. Trone, 
-Ms. Brownley, Mr. Levin of California, Mr. Pappas, Mr. Lamb, Mr. Brown 
-  of Maryland, Mr. Gallego, Ms. Underwood, Mr. Sablan, Mr. Mrvan, Mr. 
-    Allred, Ms. Kaptur, Ms. Lois Frankel of Florida, Mr. Ryan, Mr. 
- McGovern, Mr. Harder of California, Mr. Fitzpatrick, Mr. Kilmer, Mr. 
-  Soto, Ms. Meng, Ms. Strickland, and Ms. Spanberger) introduced the 
-   following bill; which was referred to the Committee on Veterans' 
-  Affairs, and in addition to the Committee on Armed Services, for a 
- period to be subsequently determined by the Speaker, in each case for 
-consideration of such provisions as fall within the jurisdiction of the 
-                          committee concerned
-
-                           February 22, 2022
-
-Additional sponsors: Mrs. Kirkpatrick, Ms. Norton, Mr. Malinowski, Ms. 
- Newman, Ms. Sherrill, Mr. Khanna, Mr. Rush, Mr. Aguilar, Mrs. Hayes, 
-Mrs. Trahan, Ms. Omar, Mr. Levin of Michigan, Mr. O'Halleran, Mr. Kind, 
- Mr. Carson, Mr. San Nicolas, Mr. Perlmutter, Mr. Neguse, Ms. Lofgren, 
-Mrs. Dingell, Ms. Davids of Kansas, Mr. Cohen, Mrs. Axne, Mr. Grijalva, 
-  Mr. Grothman, Mr. Cooper, Mr. Moulton, Mr. Pocan, Mr. Swalwell, Mr. 
-       Tonko, Ms. Blunt Rochester, Ms. Bonamici, Ms. Porter, Mr. 
- Krishnamoorthi, Mr. Blumenauer, Mrs. Bustos, Ms. DeGette, Mr. Jones, 
- Mr. Courtney, Ms. Pingree, Ms. Bourdeaux, Ms. Manning, Mr. Welch, Ms. 
-Leger Fernandez, Mr. Langevin, Mr. Keating, Mr. Bishop of Georgia, Mr. 
- Lieu, Mr. Cline, Mr. Larsen of Washington, Ms. Kelly of Illinois, Mr. 
-    Lynch, Mrs. Torres of California, Ms. Williams of Georgia, Ms. 
-   Houlahan, Ms. Sewell, Mr. Casten, Mr. Cicilline, Mr. Schiff, Mr. 
-Cartwright, Mr. Espaillat, Mr. Horsford, Mr. DeFazio, Mr. Schrader, Mr. 
- Carbajal, Ms. Castor of Florida, Ms. Jacobs of California, Mr. Castro 
-   of Texas, Mr. Raskin, Mrs. Cherfilus-McCormick, Ms. Scanlon, Mr. 
-            Stanton, Mr. Costa, Mr. Gottheimer, and Ms. Bass
-
-                           February 22, 2022
-
-            Reported from the Committee on Veterans' Affairs
-
-                           February 22, 2022
-
- Committee on Armed Services discharged; committed to the Committee of 
-  the Whole House on the State of the Union and ordered to be printed
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
    To improve health care and benefits for veterans exposed to toxic 
                   substances, and for other purposes.
-
-
- 
-
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
@@ -89,23 +55,47 @@ SECTION 1. SHORT TITLE; REFERENCES TO TITLE 38, UNITED STATES CODE;
     (a) Short Title.--This Act may be cited as the ``Honoring our 
 Promise to Address Comprehensive Toxics Act of 2021'' or the ``Honoring 
 our PACT Act of 2021''.
-    (b) References to Title 38, United States Code.--Except as 
-otherwise expressly provided, whenever in this title an amendment or 
-repeal is expressed in terms of an amendment to, or repeal of, a 
-section or other provision, the reference shall be considered to be 
-made to a section or other provision of title 38, United States Code.
+    (b) Matters Relating to Amendments to Title 38, United States 
+Code.--
+            (1) References.--Except as otherwise expressly provided, 
+        when in this Act an amendment or repeal is expressed in terms 
+        of an amendment to, or repeal of, a section or other provision, 
+        the reference shall be considered to be made to a section or 
+        other provision of title 38, United States Code.
+            (2) Amendments to tables of contents.--Except as otherwise 
+        expressly provided, when an amendment made by this Act to title 
+        38, United States Code, adds a section or larger organizational 
+        unit to that title or amends the designation or heading of a 
+        section or larger organizational unit in that title, that 
+        amendment also shall have the effect of amending any table of 
+        sections in that title to alter the table to conform to the 
+        changes made by the amendment.
     (c) Table of Contents.--The table of contents for this Act is as 
 follows:
 
 Sec. 1. Short title; references to title 38, United States Code; table 
                             of contents.
-    TITLE I--EXPANSION OF HEALTH CARE ELIGIBILITY FOR TOXIC EXPOSED 
-                                VETERANS
+             TITLE I--EXPANSION OF HEALTH CARE ELIGIBILITY
+
+                   Subtitle A--Toxic-exposed Veterans
 
 Sec. 101. Short title.
-Sec. 102. Definitions relating to toxic exposed veterans.
-Sec. 103. Expansion of health care for specific categories of toxic 
-                            exposed veterans.
+Sec. 102. Definitions relating to toxic-exposed veterans.
+Sec. 103. Expansion of health care for specific categories of toxic-
+                            exposed veterans and veterans supporting 
+                            certain overseas contingency operations.
+Sec. 104. Assessments of implementation and operation.
+Sec. 105. Revision of breast cancer mammography policy of Department of 
+                            Veterans Affairs to provide mammography 
+                            screening for veterans who served in 
+                            locations associated with toxic exposure.
+    Subtitle B--Certain Veterans of Combat Service and Other Matters
+
+Sec. 111. Expansion of period of eligibility for health care for 
+                            certain veterans of combat service.
+Sec. 112. Authorization period for emergency treatment in non-
+                            Department of Veterans Affairs medical 
+                            facilities.
               TITLE II--TOXIC EXPOSURE PRESUMPTION PROCESS
 
 Sec. 201. Short title.
@@ -115,7 +105,7 @@ Sec. 202. Improvements to ability of Department of Veterans Affairs to
 Sec. 203. Reevaluation of claims for compensation involving 
                             presumptions of service connection.
  TITLE III--IMPROVING THE ESTABLISHMENT OF SERVICE CONNECTION PROCESS 
-                       FOR TOXIC EXPOSED VETERANS
+                       FOR TOXIC-EXPOSED VETERANS
 
 Sec. 301. Short title.
 Sec. 302. Presumptions of toxic exposure.
@@ -129,10 +119,11 @@ Sec. 401. Treatment of veterans who participated in cleanup of Enewetak
                             connection of certain disabilities by 
                             Department of Veterans Affairs.
 Sec. 402. Treatment of veterans who participated in nuclear response 
-                            near Palomares, Spain, as radiation-exposed 
-                            veterans for purposes of presumption of 
-                            service connection of certain disabilities 
-                            by Department of Veterans Affairs.
+                            near Palomares, Spain, or Thule, Greenland, 
+                            as radiation-exposed veterans for purposes 
+                            of presumption of service connection of 
+                            certain disabilities by Department of 
+                            Veterans Affairs.
 Sec. 403. Presumptions of service connection for diseases associated 
                             with exposures to certain herbicide agents 
                             for veterans who served in certain 
@@ -148,8 +139,7 @@ Sec. 406. Presumption of service connection for certain diseases
                             other toxins.
                        TITLE V--RESEARCH MATTERS
 
-Sec. 501. Coordination by Department of Veterans Affairs of toxic 
-                            exposure research.
+Sec. 501. Interagency working group on toxic exposure research.
 Sec. 502. Data collection, analysis, and report on treatment of 
                             veterans for illnesses related to toxic 
                             exposure.
@@ -161,18 +151,28 @@ Sec. 506. Study on feasibility and advisability of furnishing hospital
                             care and medical services to dependents of 
                             veterans who participated in toxic exposure 
                             risk activities.
-TITLE VI--IMPROVEMENT OF RESOURCES AND TRAINING REGARDING TOXIC EXPOSED 
+Sec. 507. Study on health effects of waste related to Manhattan Project 
+                            on certain veterans.
+Sec. 508. Study on toxic exposure and mental health outcomes.
+Sec. 509. Study on veterans in Territories of the United States.
+Sec. 510. Department of Veterans Affairs public website for toxic 
+                            exposure research.
+Sec. 511. Biennial report on health effects of jet fuels used by Armed 
+                            Forces.
+TITLE VI--IMPROVEMENT OF RESOURCES AND TRAINING REGARDING TOXIC-EXPOSED 
                                 VETERANS
 
 Sec. 601. Short title; definitions.
 Sec. 602. Publication of list of resources of Department of Veterans 
-                            Affairs for toxic exposed veterans and 
+                            Affairs for toxic-exposed veterans and 
                             outreach program for such veterans and 
                             caregivers and survivors of such veterans.
 Sec. 603. Incorporation of toxic exposure questionnaire during primary 
                             care appointments.
 Sec. 604. Training for personnel of the Department of Veterans Affairs 
-                            with respect to toxic exposed veterans.
+                            with respect to toxic-exposed veterans.
+Sec. 605. Guidelines for active duty military on potential risks and 
+                            prevention of toxic exposures.
            TITLE VII--REGISTRIES, RECORDS, AND OTHER MATTERS
 
 Sec. 701. Registry of individuals exposed to per- and polyfluoroalkyl 
@@ -182,127 +182,443 @@ Sec. 703. Independent study on Individual Longitudinal Exposure Record.
 Sec. 704. Biannual report on Individual Longitudinal Exposure Record.
 Sec. 705. Correction of exposure records by members of the Armed Forces 
                             and veterans.
+Sec. 706. Federal cause of action relating to water at Camp Lejeune, 
+                            North Carolina.
+Sec. 707. Veterans Toxic Exposures Fund.
+Sec. 708. Authorization of electronic notice in claims under laws 
+                            administered by the Secretary of Veterans 
+                            Affairs.
+Sec. 709. Authorization of appropriations for expansion of claims 
+                            automation.
+Sec. 710. Non-applicability of non-Department of Veterans Affairs 
+                            covenants not to compete to appointment of 
+                            Veterans Health Administration personnel.
+Sec. 711. Recruitment of physicians on a contingent basis prior to 
+                            completion of training requirements.
+Sec. 712. Authority for Secretary of Veterans Affairs to award grants 
+                            to States to improve outreach to veterans.
+Sec. 713. Study and report on herbicide agent exposure in Panama Canal 
+                            Zone.
+Sec. 714. Budget information for alternatives to burn pits.
+Sec. 715. Authorization of appropriations for expansion of claims 
+                            automation.
+Sec. 716. Burn pit registry updates.
+Sec. 717. Burn pit transparency.
 
-    TITLE I--EXPANSION OF HEALTH CARE ELIGIBILITY FOR TOXIC EXPOSED 
-                                VETERANS
+             TITLE I--EXPANSION OF HEALTH CARE ELIGIBILITY
+
+                   Subtitle A--Toxic-exposed Veterans
 
 SEC. 101. SHORT TITLE.
 
     This title may be cited as the ``Conceding Our Veterans' Exposures 
 Now And Necessitating Training Act'' or the ``COVENANT Act''.
 
-SEC. 102. DEFINITIONS RELATING TO TOXIC EXPOSED VETERANS.
+SEC. 102. DEFINITIONS RELATING TO TOXIC-EXPOSED VETERANS.
 
     (a) In General.--Section 1710(a)(2)(F) is amended by striking ``who 
 was exposed to a toxic substance, radiation, or other conditions, as 
 provided in subsection (e)'' and inserting ``in accordance with 
-subsection (e), who is a toxic exposed veteran''.
-    (b) Definitions of Toxic Exposure and Toxic Exposed Veteran.--
+subsection (e), who is a toxic-exposed veteran''.
+    (b) Definitions of Toxic Exposure and Toxic-exposed Veteran.--
 Section 101 is amended by adding at the end the following new 
 paragraphs:
     ``(37) The term `toxic exposure' includes the following:
             ``(A) A toxic exposure risk activity, as defined in section 
         1710(e)(4) of this title.
             ``(B) An exposure to a substance, chemical, or airborne 
-        hazard specified in section 1119(b)(2).
-    ``(38) The term `toxic exposed veteran' means a veteran described 
+        hazard identified in the list under section 1119(b)(2) of this 
+        title.
+    ``(38) The term `toxic-exposed veteran' means a veteran described 
 in section 1710(e)(1) of this title.''.
     (c) Definition of Toxic Exposure Risk Activity.--Section 1710(e)(4) 
 is amended by adding at the end the following new subparagraph:
             ``(C) The term `toxic exposure risk activity' means any 
         activity--
-                    ``(i) that requires a corresponding entry in the 
-                Individual Longitudinal Exposure Record of the 
-                Department for the veteran who carried out the 
-                activity; or
+                    ``(i) that requires a corresponding entry in an 
+                exposure tracking record system (as defined in section 
+                1119(c) of this title) for the veteran who carried out 
+                the activity; or
                     ``(ii) that the Secretary determines qualifies for 
                 purposes of this subsection when taking into account 
                 what is reasonably prudent to protect the health of 
                 veterans.''.
 
-SEC. 103. EXPANSION OF HEALTH CARE FOR SPECIFIC CATEGORIES OF TOXIC 
-              EXPOSED VETERANS.
+SEC. 103. EXPANSION OF HEALTH CARE FOR SPECIFIC CATEGORIES OF TOXIC-
+              EXPOSED VETERANS AND VETERANS SUPPORTING CERTAIN OVERSEAS 
+              CONTINGENCY OPERATIONS.
 
-    (a) In General.--Section 1710(e), as amended by section 102(c), is 
-further amended--
-            (1) in paragraph (1), by adding at the end the following 
-        new subparagraphs:
-    ``(G) Subject to paragraph (2), a veteran who participated in a 
-toxic exposure risk activity while serving on active duty, active duty 
-for training, or inactive duty training is eligible for hospital care, 
+    (a) In General.--
+            (1) Expansion.--Subsection (e) of section 1710, as amended 
+        by section 102(c), is further amended--
+                    (A) in paragraph (1), by adding at the end the 
+                following new subparagraphs:
+    ``(G) Beginning not later than the applicable date specified in 
+paragraph (6), and subject to paragraph (2), a veteran who participated 
+in a toxic exposure risk activity while serving on active duty, active 
+duty for training, or inactive duty training is eligible for hospital 
+care (including mental health services and counseling), medical 
+services, and nursing home care under subsection (a)(2)(F) for any 
+illness.
+    ``(H) Beginning not later than the applicable date specified in 
+paragraph (6), and subject to paragraph (2), a covered veteran (as 
+defined in section 1119(c) of this title) is eligible for hospital care 
+(including mental health services and counseling), medical services, 
+and nursing home care under subsection (a)(2)(F) for any illness.
+    ``(I)(i) Beginning not later than the applicable date specified in 
+paragraph (6), and subject to paragraph (2), a veteran who deployed in 
+support of a contingency operation specified in clause (ii) is eligible 
+for hospital care (including mental health services and counseling), 
 medical services, and nursing home care under subsection (a)(2)(F) for 
 any illness.
-    ``(H) Subject to paragraph (2), a covered veteran (as defined in 
-section 1119(c) of this title) is eligible for hospital care, medical 
-services, and nursing home care under subsection (a)(2)(F) for any 
-illness.''; and
-            (2) in paragraph (2)(B)--
-                    (A) by striking ``or (F)'' and inserting ``(F), 
-                (G), or (H)''; and
-                    (B) by striking ``service or testing'' and 
-                inserting ``service, testing, or activity''.
-    (b) Resource Assessment and Report.--
-            (1) Initial assessment and report.--Not later than 180 days 
-        after the date of the enactment of this Act, the Secretary of 
-        Veterans Affairs shall--
-                    (A) complete an assessment to determine--
-                            (i) the personnel and material resources 
-                        necessary to implement the amendments made by 
-                        subsection (a); and
-                            (ii) the total number of covered veterans, 
-                        as such term is defined in section 1119(c) of 
-                        title 38, United States Code (as added by 
-                        section 301), who receive hospital care or 
-                        medical services furnished by the Secretary 
-                        under chapter 17 of such title, disaggregated 
-                        by priority group specified in section 1705(a) 
-                        of such title; and
-                    (B) submit to the Committees on Veterans' Affairs 
-                of the House of Representatives and the Senate an 
-                initial report containing the findings of the 
-                assessment completed under subparagraph (A), including 
-                a specific determination as to whether the Department 
-                has the personnel and material resources necessary to 
-                implement the amendments made by subsection (a).
-            (2) Subsequent reports.--If the initial report submitted 
-        under paragraph (1)(B) contains a determination that the 
-        Department does not have the personnel or material resources 
-        necessary to implement the amendments made by subsection (a), 
-        beginning not later than 90 days after the submission of such 
-        initial report and every 90 days thereafter until the effective 
-        date specified in subsection (c), the Secretary shall submit to 
-        the Committees on Veterans' Affairs of the House of 
-        Representatives and the Senate a subsequent report containing 
-        an update to such determination.
-    (c) Effective Date.--The amendments made by subsection (a) shall 
-take effect on the date that is the earlier of the following:
-            (1) The date on which the Secretary submits a report under 
-        subsection (b) containing a determination that the Department 
+    ``(ii) A contingency operation specified in this clause is any of 
+the following:
+            ``(I) Operation Enduring Freedom.
+            ``(II) Operation Freedom's Sentinel.
+            ``(III) Operation Iraqi Freedom.
+            ``(IV) Operation New Dawn.
+            ``(V) Operation Inherent Resolve.
+            ``(VI) Resolute Support Mission.''; and
+                    (B) in paragraph (2)(B)--
+                            (i) by striking ``or (F)'' and inserting 
+                        ``(F), (G), (H), or (I)''; and
+                            (ii) by striking ``service or testing'' and 
+                        inserting ``service, testing, or activity''.
+            (2) Phase in.--Such subsection is further amended by adding 
+        at the end the following new paragraph:
+    ``(6)(A) The Secretary shall determine the dates in subparagraphs 
+(G), (H), and (I) of paragraph (1) as follows:
+            ``(i) October 1, 2024, with respect to a veteran described 
+        in such subparagraph (G) or (H) who was discharged or released 
+        from the active military, naval, air, or space service during 
+        the period beginning on August 2, 1990, and ending on September 
+        11, 2001.
+            ``(ii) October 1, 2026, with respect to a veteran described 
+        in such subparagraph (G) or (H) who was discharged or released 
+        from the active military, naval, air, or space service during 
+        the period beginning on September 12, 2001, and ending on 
+        December 31, 2006.
+            ``(iii) October 1, 2028, with respect to a veteran 
+        described in such subparagraph (G) or (H) who was discharged or 
+        released from the active military, naval, air, or space service 
+        during the period beginning on January 1, 2007, and ending on 
+        December 31, 2012.
+            ``(iv) October 1, 2030, with respect to a veteran described 
+        in such subparagraph (G) or (H) who was discharged or released 
+        from the active military, naval, air, or space service during 
+        the period beginning on January 1, 2013, and ending on December 
+        31, 2018.
+            ``(v) October 1, 2032, with respect to a veteran described 
+        in such subparagraph (I).
+    ``(B) The Secretary may modify a date specified in subparagraph (A) 
+to an earlier date, as the Secretary determines appropriate based on 
+the number of veterans receiving hospital care, medical services, and 
+nursing home care under subparagraphs (G), (H), and (I) of paragraph 
+(1) and the resources available to the Secretary. If the Secretary 
+determines to so modify a date, the Secretary shall--
+            ``(i) notify the Committees on Veterans' Affairs of the 
+        House of Representatives and the Senate of the proposed 
+        modification; and
+            ``(ii) publish such modified date in the Federal 
+        Register.''.
+    (b) Outreach Plans.--With respect to each of clauses (i) through 
+(v) of section 1710(e)(6)(A) of title 38, United States Code (as added 
+by subsection (a)(2)), not later than 180 days prior to the date 
+specified in the clause (including a date modified pursuant to such 
+section), the Secretary shall submit to the Committees on Veterans' 
+Affairs of the House of Representatives and the Senate a plan to 
+conduct outreach to the veterans referred to in the clause to notify 
+such veterans of their eligibility for hospital care, medical services, 
+or nursing home care under subparagraph (G), (H), or (I), of section 
+1710(e)(1) of such title, as the case may be.
+
+SEC. 104. ASSESSMENTS OF IMPLEMENTATION AND OPERATION.
+
+    (a) Initial Resource Assessment and Report.--Not later than 180 
+days after the date of the enactment of this Act, the Secretary of 
+Veterans Affairs shall--
+            (1) complete an assessment to determine--
+                    (A) the personnel and material resources necessary 
+                to implement section 103 (including the amendments made 
+                by such section); and
+                    (B) the total number of covered veterans, as such 
+                term is defined in section 1119(c) of title 38, United 
+                States Code (as added by section 302), who receive 
+                hospital care or medical services furnished by the 
+                Secretary under chapter 17 of such title, disaggregated 
+                by priority group specified in section 1705(a) of such 
+                title; and
+            (2) submit to the Committees on Veterans' Affairs of the 
+        House of Representatives and the Senate a report containing the 
+        findings of the assessment completed under paragraph (1), 
+        including a specific determination as to whether the Department 
         has the personnel and material resources necessary to implement 
-        such amendments, and notifies the Law Revision Counsel of the 
-        House of Representatives of the submission of the report so the 
-        Law Revision Counsel may execute the amendments.
-            (2) The date that is 18 months after the date of the 
-        enactment of this Act.
+        section 103.
+    (b) Information Systems.--Not later than October 1, 2024, the 
+Secretary shall establish information systems to assess the 
+implementation of section 103, including the amendments made by such 
+section, and use the results of assessments under such systems to 
+inform the reports under subsection (c).
+    (c) Annual Reports.--
+            (1) Reports.--Not later than October 1, 2025, and on an 
+        annual basis thereafter until October 1, 2033, the Secretary 
+        shall submit to the Committees on Veterans' Affairs of the 
+        House of Representatives and the Senate a report on the 
+        following:
+                    (A) The effect of the implementation of, and the 
+                provision and management of care under, section 103, 
+                (including the amendments made by such section) on the 
+                demand by veterans described in subparagraphs (G), (H), 
+                and (I) of section 1710(e)(1) of title 38, United 
+                States Code (as added by such section 103) for health 
+                care services furnished by the Secretary.
+                    (B) Any differing patterns of demand for health 
+                care services by such veterans, disaggregated by 
+                factors such as the relative distance of the veteran 
+                from medical facilities of the Department and whether 
+                the veteran had previously received hospital care or 
+                medical services furnished by the Secretary under 
+                chapter 17 of such title.
+                    (C) The extent to which the Secretary has met such 
+                demand.
+                    (D) Any changes, during the year covered by the 
+                report, in the delivery patterns of health care 
+                furnished by the Secretary under chapter 17 of such 
+                title, and the fiscal impact of such changes.
+            (2) Matters.--Each report under paragraph (1) shall 
+        include, with respect to the year covered by the report, 
+        detailed information on the following:
+                    (A) The total number of veterans enrolled in the 
+                patient enrollment system who, during such year, 
+                received hospital care or medical services furnished by 
+                the Secretary under chapter 17 of title 38, United 
+                States Code.
+                    (B) Of the veterans specified in subparagraph (A), 
+                the number of such veterans who, during the preceding 
+                three fiscal years, had not received such care or 
+                services.
+                    (C) With respect to the veterans specified in 
+                subparagraph (B), the cost of providing health care to 
+                such veterans during the year covered by the report, 
+                shown in total and disaggregated by--
+                            (i) the level of care; and
+                            (ii) whether the care was provided through 
+                        the Veterans Community Care Program.
+                    (D) With respect to the number of veterans 
+                described in subparagraphs (G), (H), and (I) of section 
+                1710(e)(1) of title 38, United States Code (as added by 
+                section 103), the following (shown in total and 
+                disaggregated by medical facility of the Department, as 
+                applicable):
+                            (i) The number of such veterans who, during 
+                        the year covered by the report, enrolled in the 
+                        patient enrollment system.
+                            (ii) The number of such veterans who 
+                        applied for, but were denied, such enrollment.
+                            (iii) The number of such veterans who were 
+                        denied hospital care or a medical service 
+                        furnished by the Secretary that was considered 
+                        to be medically necessary but not of an 
+                        emergency nature.
+                    (E) The numbers and characteristics of, and the 
+                type and extent of health care furnished by the 
+                Secretary to, veterans enrolled in the patient 
+                enrollment system (shown in total and disaggregated by 
+                medical facility of the Department).
+                    (F) The numbers and characteristics of, and the 
+                type and extent of health care furnished by the 
+                Secretary to, veterans not enrolled in the patient 
+                enrollment system (disaggregated by each class of 
+                eligibility for care under section 1710 of title 38, 
+                United States Code, and further shown as a total per 
+                class and disaggregated by medical facility of the 
+                Department).
+                    (G) The specific fiscal impact (shown in total and 
+                disaggregated by geographic health care delivery areas) 
+                of changes in the delivery patterns of health care 
+                furnished by the Secretary under chapter 17 of such 
+                title as a result of the implementation of section 103 
+                (including the amendments made by such section).
+    (d) Definitions.--In this section:
+            (1) The term ``patient enrollment system'' means the 
+        patient enrollment system of the Department of Veterans Affairs 
+        established and operated under section 1705 of title 38, United 
+        States Code.
+            (2) The term ``Veterans Community Care Program'' means the 
+        program established under section 1703 of title 38, United 
+        States Code.
+
+SEC. 105. REVISION OF BREAST CANCER MAMMOGRAPHY POLICY OF DEPARTMENT OF 
+              VETERANS AFFAIRS TO PROVIDE MAMMOGRAPHY SCREENING FOR 
+              VETERANS WHO SERVED IN LOCATIONS ASSOCIATED WITH TOXIC 
+              EXPOSURE.
+
+    (a) In General.--Section 7322 of title 38, United States Code, is 
+amended--
+            (1) in subsection (a), by striking ``The'' and inserting 
+        ``In General.--The'';
+            (2) in subsection (b)--
+                    (A) by striking ``The'' and inserting ``Standards 
+                for Screening.--The''; and
+                    (B) in paragraph (2)(B), by inserting ``a record of 
+                service in a location and during a period specified in 
+                subsection (d),'' after ``risk factors,''; and
+            (3) by adding at the end the following new subsections:
+    ``(c) Eligibility for Screening for Veterans Exposed to Toxic 
+Substances.--The Under Secretary for Health shall ensure that, under 
+the policy developed under subsection (a), any veteran who, during 
+active military, naval, or air service, was deployed in support of a 
+contingency operation in a location and during a period specified in 
+subsection (d), is eligible for a mammography screening by a health 
+care provider of the Department.
+    ``(d) Locations and Periods Specified.--(1) The locations and 
+periods specified in this subsection are the following:
+            ``(A) Iraq during following periods:
+                    ``(i) The period beginning on August 2, 1990, and 
+                ending on February 28, 1991.
+                    ``(ii) The period beginning on March 19, 2003, and 
+                ending on such date as the Secretary determines burn 
+                pits are no longer used in Iraq.
+            ``(B) The Southwest Asia theater of operations, other than 
+        Iraq, during the period beginning on August 2, 1990, and ending 
+        on such date as the Secretary determines burn pits are no 
+        longer used in such location, including the following 
+        locations:
+                    ``(i) Kuwait.
+                    ``(ii) Saudi Arabia.
+                    ``(iii) Oman.
+                    ``(iv) Qatar.
+            ``(C) Afghanistan during the period beginning on September 
+        11, 2001, and ending on such date as the Secretary determines 
+        burn pits are no longer used in Afghanistan.
+            ``(D) Djibouti during the period beginning on September 11, 
+        2001, and ending on such date as the Secretary determines burn 
+        pits are no longer used in Djibouti.
+            ``(E) Syria during the period beginning on September 11, 
+        2001, and ending on such date as the Secretary determines burn 
+        pits are no longer used in Syria.
+            ``(F) Jordan during the period beginning on September 11, 
+        2001, and ending on such date as the Secretary determines burn 
+        pits are no longer used in Jordan.
+            ``(G) Egypt during the period beginning on September 11, 
+        2001, and ending on such date as the Secretary determines burn 
+        pits are no longer used in Egypt.
+            ``(H) Lebanon during the period beginning on September 11, 
+        2001, and ending on such date as the Secretary determines burn 
+        pits are no longer used in Lebanon.
+            ``(I) Yemen during the period beginning on September 11, 
+        2001, and ending on such date as the Secretary determines burn 
+        pits are no longer used in Yemen.
+            ``(J) Such other locations and corresponding periods as set 
+        forth by the Airborne Hazards and Open Burn Pit Registry 
+        established under section 201 of the Dignified Burial and Other 
+        Veterans' Benefits Improvement Act of 2012 (Public Law 112-260; 
+        38 U.S.C. 527 note).
+            ``(K) Such other locations and corresponding periods as the 
+        Secretary, in collaboration with the Secretary of Defense, may 
+        determine appropriate in a report submitted under paragraph 
+        (2).
+    ``(2) Not later than two years after the date of the enactment of 
+the Supporting Expanded Review for Veterans In Combat Environments Act 
+of 2021, and not less frequently than once every two years thereafter, 
+the Secretary of Veterans Affairs, in collaboration with the Secretary 
+of Defense, shall submit to Congress a report specifying other 
+locations and corresponding periods for purposes of paragraph (1)(K).
+    ``(3) A location under this subsection shall not include any body 
+of water around or any airspace above such location.
+    ``(4) In this subsection, the term `burn pit' means an area of land 
+that is used for disposal of solid waste by burning in the outdoor 
+air.''.
+    (b) Report on Breast Cancer Rates for Veterans Deployed to Certain 
+Areas.--Not later than two years after the date of the enactment of 
+this Act, the Secretary of Veterans Affairs shall submit to the 
+Committee on Veterans' Affairs of the Senate and the Committee on 
+Veterans' Affairs of the House of Representatives a report that 
+compares the rates of breast cancer among members of the Armed Forces 
+deployed to the locations and during the periods specified in section 
+7322(d) of title 38, United States Code, as added by subsection (a), as 
+compared to members of the Armed Forces who were not deployed to those 
+locations during those periods and to the civilian population.
+
+    Subtitle B--Certain Veterans of Combat Service and Other Matters
+
+SEC. 111. EXPANSION OF PERIOD OF ELIGIBILITY FOR HEALTH CARE FOR 
+              CERTAIN VETERANS OF COMBAT SERVICE.
+
+    (a) Expanded Period.--Section 1710(e)(3) is amended--
+            (1) in subparagraph (A)--
+                    (A) by striking ``January 27, 2003'' and inserting 
+                ``September 11, 2001''; and
+                    (B) by striking ``five-year period'' and inserting 
+                ``10-year period'';
+            (2) by amending subparagraph (B) to read as follows:
+            ``(B) With respect to a veteran described in paragraph 
+        (1)(D) who was discharged or released from the active military, 
+        naval, air, or space service after September 11, 2001, and 
+        before October 1, 2013, but did not enroll to receive such 
+        hospital care, medical services, or nursing home care under 
+        such paragraph pursuant to subparagraph (A) before October 1, 
+        2022, the one-year period beginning on October 1, 2022.''; and
+            (3) by striking subparagraph (C).
+    (b) Clarification of Coverage.--Section 1710(e)(1)(D) is amended by 
+inserting after ``Persian Gulf War'' the following: ``(including any 
+veteran who, in connection with service during such period, received 
+the Armed Forces Expeditionary Medal, Service Specific Expeditionary 
+Medal, Combat Era Specific Expeditionary Medal, Campaign Specific 
+Medal, or any other combat theater award established by a Federal 
+statute or an Executive order)''.
+    (c) Outreach Plan.--Not later than December 1, 2022, the Secretary 
+shall submit to the Committees on Veterans' Affairs of the House of 
+Representatives and the Senate a plan to conduct outreach to veterans 
+described in subparagraph (B) of section 1710(e)(3) of title 38, United 
+States Code, as amended by subsection (a)(2), to notify such veterans 
+of their eligibility for hospital care, medical services, or nursing 
+home care pursuant to such subparagraph.
+    (d) Report on Enrollments.--Not later than January 30, 2024, the 
+Secretary shall submit to the Committees on Veterans' Affairs of the 
+House of Representatives and the Senate a report identifying, with 
+respect to the one-year period beginning on October 1, 2022, the number 
+of veterans described in section 1710(e)(3)(B) of title 38, United 
+States Code, as amended by subsection (a)(2), who, during such period, 
+enrolled in the patient enrollment system of the Department of Veterans 
+Affairs established and operated under section 1705 of such title.
+    (e) Effective Date.--This section and the amendments made by this 
+section shall take effect on October 1, 2022.
+
+SEC. 112. AUTHORIZATION PERIOD FOR EMERGENCY TREATMENT IN NON-
+              DEPARTMENT OF VETERANS AFFAIRS MEDICAL FACILITIES.
+
+    Section 1703(a)(3) of title 38, United States Code, is amended--
+            (1) by striking ``A covered veteran'' and inserting ``(A) 
+        Except as provided by subparagraph (B), a covered veteran''; 
+        and
+            (2) by adding at the end the following new subparagraph:
+    ``(B) In the case of an emergency which existed at the time of 
+admission of a covered veteran to a health care provider, the Secretary 
+shall deem the care or services received by the veteran during such 
+admission to be authorized under subparagraph (A) if the covered 
+veteran (or an individual acting on behalf of the covered veteran) 
+makes an application for such authorization during the period following 
+such admission that the Secretary determines appropriate for purposes 
+of this paragraph, except such period may not be less than 96 hours.''.
 
               TITLE II--TOXIC EXPOSURE PRESUMPTION PROCESS
 
 SEC. 201. SHORT TITLE.
 
-    This title may be cited as the ``Fairly Assessing Service-related 
-Toxic Exposure Residuals Presumptions Act'' or the ``FASTER 
+    This subtitle may be cited as the ``Fairly Assessing Service-
+related Toxic Exposure Residuals Presumptions Act'' or the ``FASTER 
 Presumptions Act''.
 
 SEC. 202. IMPROVEMENTS TO ABILITY OF DEPARTMENT OF VETERANS AFFAIRS TO 
               ESTABLISH PRESUMPTIONS OF SERVICE CONNECTION BASED ON 
               TOXIC EXPOSURE.
 
-    (a) Advisory Committees, Panels, and Boards.--
-            (1) Establishment.--Chapter 11 is amended by adding at the 
-        end the following new subchapter:
+    (a) Advisory Committees, Panels, and Boards.--Chapter 11 is amended 
+by adding at the end the following new subchapter:
 
-``SUBCHAPTER VII--RESEARCH AND DETERMINATIONS RELATING TO PRESUMPTIONS 
-             OF SERVICE CONNECTION BASED ON TOXIC EXPOSURE
+ ``SUBCHAPTER VII--DETERMINATIONS RELATING TO PRESUMPTIONS OF SERVICE 
+                   CONNECTION BASED ON TOXIC EXPOSURE
 
 ``Sec. 1171. Procedures to determine presumptions of service connection 
               based on toxic exposure; definitions
@@ -311,43 +627,28 @@ establish, or to remove, presumptions of service connection based on
 toxic exposure pursuant to this subchapter, whereby--
             ``(1) the Formal Advisory Committee on Toxic Exposure under 
         section 1172 of this title--
-                    ``(A) provides advice to the Secretary on toxic 
+                    ``(A) provides advice to the Secretary on toxic-
                 exposed veterans and cases in which veterans who, 
-                during active military, naval, or air service, may have 
-                experienced a toxic exposure or their dependents may 
-                have experienced a toxic exposure while the veterans 
-                were serving in the active military, naval, or air 
-                service;
+                during active military, naval, air, or space service, 
+                may have experienced a toxic exposure or their 
+                dependents may have experienced a toxic exposure while 
+                the veterans were serving in the active military, 
+                naval, air, or space service;
                     ``(B) provides to the Secretary recommendations on 
                 corrections needed in the Individual Longitudinal 
-                Exposure Record to better reflect veterans and 
-                dependents described in subparagraph (A); and
-                    ``(C) provides to the Secretary recommendations 
-                regarding which cases of possible toxic exposure 
-                described in subparagraph (A) the Science Review Board 
-                should review;
-            ``(2) the Science Review Board under section 1173 of this 
-        title--
-                    ``(A) reviews cases of possible toxic exposure 
-                nominated by the Secretary;
-                    ``(B) reviews research nominated by the Secretary;
-                    ``(C) develops recommendations for new research; 
+                Exposure Record, or successor system, to better reflect 
+                veterans and dependents described in subparagraph (A); 
                 and
-                    ``(D) determines the strength of evidence 
-                supporting positive association between toxic exposure 
-                and an illness;
-            ``(3) the Working Group under section 1174 of this title 
-        evaluates the conclusions of the Science Review Board and 
-        recommends to the Secretary whether to establish or modify a 
-        presumption of service connection; and
-            ``(4) the Secretary prescribes regulations under section 
-        1175 of this title.
+                    ``(C) provides to the Secretary recommendations 
+                regarding which cases of possible toxic exposure should 
+                be reviewed; and
+            ``(2) the Secretary provides for formal evaluations of such 
+        recommendations under section 1173 of this title; and
+            ``(3) the Secretary issues regulations under section 1174 
+        of this title.
     ``(b) Illness Defined.--In this subchapter, the term `illness' 
 includes a disease or other condition affecting the health of an 
-individual.
-    ``(c) Nonapplication of Sunset Requirements.--Section 14 of the 
-Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to an 
-entity established under this subchapter.
+individual, including mental and physical health.
 ``Sec. 1172. Formal Advisory Committee on Toxic Exposure
     ``(a) Establishment.--(1) There is in the Veterans Health 
 Administration of the Department the Formal Advisory Committee on Toxic 
@@ -374,8 +675,9 @@ following criteria:
         or agencies of the Federal Government, including the Department 
         of Defense and the Agency of Toxic Substances and Disease 
         Registry of the Centers for Disease Control and Prevention.
-            ``(iii) At least one member shall be appointed from among 
-        individuals who are representatives of disabled veterans.
+            ``(iii) At least two members shall represent an 
+        organization recognized by the Secretary for the representation 
+        of veterans under section 5902 of this title.
             ``(iv) At least one member shall be appointed from among 
         individuals in the private sector, State or local government, 
         or academia, who are experts in toxicology and epidemiology.
@@ -383,40 +685,51 @@ following criteria:
 members of the Committee, including with respect to any additional pay 
 and allowances for members who are officials or employees of the 
 Federal Government.
-    ``(4) Each member of the Committee shall be appointed for a two-
-year term, and may serve not more than three successive terms.
+    ``(4)(A) Except as provided by subparagraph (B), each member of the 
+Committee shall be appointed for a two-year term, and may serve not 
+more than three successive terms.
+    ``(B) With respect to the five members who are initially appointed 
+by the Secretary under subparagraph (A)(i), the Secretary shall 
+determine the length of the term of each such member in a manner that 
+ensures the expiration of the terms on a staggered basis.
     ``(5) A vacancy in the Committee shall be filled in the manner in 
 which the original appointment was made.
     ``(b) Consultation.--The Secretary may consult with, and seek the 
 advice of, the Committee with respect to cases in which veterans who, 
-during active military, naval, or air service, are suspected of having 
-experienced a toxic exposure or dependents of veterans who may have 
-experienced a toxic exposure during such service.
+during active military, naval, air, or space service, are suspected of 
+having experienced a toxic exposure or dependents of veterans who may 
+have experienced a toxic exposure during such service.
     ``(c) Assessments.--(1) The Committee shall assess cases of the 
 toxic exposure of veterans and their dependents that occurred during 
-active military, naval, or air service.
+active military, naval, air, or space service, including by conducting 
+ongoing surveillance and reviewing such exposure described in 
+scientific literature, media reports, information from veterans, and 
+information from Congress.
     ``(2) The assessments under paragraph (1) shall cover suspected and 
-known toxic exposures occurring during active military, naval, or air 
-service, including by identifying and evaluating new and emerging toxic 
-exposures that are not recognized under existing presumptions of 
+known toxic exposures occurring during active military, naval, air, or 
+space service, including by identifying and evaluating new and emerging 
+toxic exposures that are not recognized under existing presumptions of 
 service connection.
     ``(3) The Committee may conduct an assessment under paragraph (1) 
-in response to a person described in subsection (e)(2), by a majority 
-vote of the members of the Committee.
+in response to comments by a person described in subsection (e)(2), by 
+a majority vote of the members of the Committee.
     ``(4) The Committee shall on a periodic basis assess the Individual 
-Longitudinal Exposure Record to ensure the accuracy of data collected.
+Longitudinal Exposure Record, or successor system, to ensure the 
+accuracy of data collected.
     ``(d) Research Recommendations.--(1) Following an assessment of a 
 case of the toxic exposure of veterans or their dependents that 
-occurred during active military, naval, or air service under subsection 
-(c), the Committee may develop a recommendation for the Secretary 
-regarding whether there should be a review of the health effects 
-related to the case of exposure conducted by the Science Review Board 
-established under section 1173 of this title.
+occurred during active military, naval, air, or space service under 
+subsection (c), the Committee may develop a recommendation for formal 
+evaluation under section 1173 of this title to conduct a review of the 
+health effects related to the case of exposure if the Committee 
+determines that the research may change the current understanding of 
+the relationship between an exposure to an environmental hazard and 
+adverse health outcomes in humans.
     ``(2) Upon receipt of evidence suggesting that previous findings 
 regarding the periods and locations of exposure covered by an existing 
 presumption of service connection are no longer supported, the 
-Committee may nominate such evidence for evaluation by the Working 
-Group to modify the periods and locations.
+Committee may nominate such evidence for formal evaluation under 
+section 1173 of this title to modify the periods and locations.
     ``(e) Input.--(1) Not less than quarterly, the Committee shall 
 provide an opportunity for persons described in paragraph (2) to 
 present written or oral comments to the Committee.
@@ -443,39 +756,63 @@ Representatives, and make publicly available, a report on--
             ``(1) the findings and opinions of the Secretary with 
         respect to the report most recently submitted under subsection 
         (f); and
-            ``(2) whether the Secretary intends to nominate to the 
-        Science Review Board the review recommended by the Committee in 
-        the report, and if not, an explanation of why, including 
-        citations and sources.
-``Sec. 1173. Science Review Board
-    ``(a) Establishment.--(1) There is in the Veterans Health 
-Administration of the Department the Science Review Board (in this 
-section referred to as the `Board').
-    ``(2)(A) The members of the Board shall be appointed by the 
-Secretary, in consultation with the National Academies of Sciences, 
-Engineering, and Medicine, from the general public from among 
-individuals who are distinguished in the fields of medicine, biological 
-sciences, or health administration.
-    ``(B) An individual may not concurrently serve on the Board and the 
-Formal Advisory Committee on Toxic Exposure under section 1172 of this 
-title.
-    ``(C) The Secretary shall determine the number, terms of service, 
-and pay and allowances of members of the Board appointed by the 
-Secretary.
-    ``(b) Duties.--(1) Upon receiving a nomination for the evaluation 
-of research on the health effects of toxic exposures of members of the 
-active military, naval, or air service or dependents of such members 
-made by the Secretary, the Board shall--
-            ``(A) evaluate the likelihood that a positive association 
-        exists between an illness and a toxic exposure while serving in 
-        the active military, naval, or air service; and
-            ``(B) assess the toxic exposures and illnesses identified 
-        by the Secretary and determine whether the evidence supports a 
-        finding of a positive association between the toxic exposure 
-        and the illness.
-    ``(2) In carrying out paragraph (1)(B), the Board shall review all 
-relevant data to determine the strength of evidence for a positive 
-association based on the following four categories:
+            ``(2) whether the Secretary will conduct research 
+        recommended under subsection (f) included in the report, and if 
+        not, an explanation of why, including citations and sources.
+    ``(h) Nonapplication of Sunset Requirements.--Section 14 of the 
+Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the 
+Committee.
+``Sec. 1173. Formal evaluation of recommendations
+    ``(a) Formal Evaluation.--The Secretary shall establish a process 
+to conduct a formal evaluation with respect to each recommendation made 
+by the Formal Advisory Committee on Toxic Exposure under section 1172 
+of this title--
+            ``(1) to conduct research regarding the health effects 
+        related to a case of toxic exposure; or
+            ``(2) to evaluate evidence regarding the periods and 
+        locations of exposure covered by an existing presumption of 
+        service connection.
+    ``(b) Evidence, Data, and Factors.--The Secretary shall ensure that 
+each formal evaluation under paragraph (1) covers the following:
+            ``(1) Scientific evidence, based on the review of available 
+        scientific literature, including human, toxicological, animal, 
+        and methodological studies, and other factors.
+            ``(2) Claims data, based on the review of claim rate, grant 
+        rate, and service connection prevalence, and other factors.
+            ``(3) Other factors the Secretary determines appropriate, 
+        such as--
+                    ``(A) the level of disability and mortality caused 
+                by the health effects related to the case of toxic 
+                exposure being evaluated;
+                    ``(B) the level of assistance required to remain in 
+                the community because of such health effects;
+                    ``(C) the quantity and quality of the information 
+                available and reviewed;
+                    ``(D) the feasibility of and period for generating 
+                relevant information and evidence;
+                    ``(E) whether such health effects are combat- or 
+                deployment-related; and
+                    ``(F) the ubiquity or rarity of the health effects.
+    ``(c) Conduct of Evaluations.--(1) The Secretary shall ensure that 
+each formal evaluation under subsection (a)--
+            ``(A) reviews scientific evidence in a manner that--
+                    ``(i) conforms to principles of scientific and data 
+                integrity;
+                    ``(ii) is free from suppression or distortion of 
+                scientific or technological findings, data, 
+                information, conclusions, or technical results; and
+            ``(B)(i) evaluates the likelihood that a positive 
+        association exists between an illness and a toxic exposure 
+        while serving in the active military, naval, air, or space 
+        service; and
+            ``(ii) assesses the toxic exposures and illnesses and 
+        determines whether the evidence supports a finding of a 
+        positive association between the toxic exposure and the 
+        illness.
+    ``(2) In carrying out paragraph (1)(B)(ii), a formal evaluation 
+under subsection (a) shall include reviewing all relevant data to 
+determine the strength of evidence for a positive association based on 
+the following four categories:
             ``(A) The `sufficient' category, where the evidence is 
         sufficient to conclude that a positive association exists.
             ``(B) The `equipoise and above' category, where the 
@@ -488,124 +825,33 @@ association based on the following four categories:
         scientifically informed judgment.
             ``(D) The `against' category, where the evidence suggests 
         the lack of a positive association.
-    ``(3)(A) With respect to an evaluation conducted under this 
-subsection, if the Board determines that the evidence for a positive 
-association is categorized as either the sufficient or equipoise and 
-above categories, the Board shall estimate the size of the positive 
-association effect among those exposed by calculating the relative risk 
-and exposure prevalence.
-    ``(B)(i) The Board shall use the relative risk and exposure 
-prevalence calculated under subparagraph (A) to estimate the service-
-attributable fraction of illness in a military setting to determine the 
-probability of positive association for an individual.
-    ``(ii) In calculating the service-attributable fraction of illness, 
-the Board shall consider the dose-response relationships.
-    ``(4)(A) With respect to an evaluation conducted under this 
-subsection, if the Board determines that the evidence for a positive 
-association is categorized as the below equipoise category, the Board 
-shall develop a recommendation as to whether additional data gathering 
-and research are necessary.
-    ``(B) If the Board recommends additional data gathering and 
-research pursuant to subparagraph (A), the Secretary shall seek to 
-enter into an agreement with the National Academies of Sciences, 
-Engineering, and Medicine, or another nonprofit, nongovernmental entity 
-that the Secretary determines has similar expertise and objectivity as 
-the National Academies, to conduct such data gathering and research.
-    ``(c) Reports.--(1) For each evaluation conducted under subsection 
-(b) where the Board determines that the evidence for positive 
-association is categorized as either the sufficient or equipoise and 
-above categories, the Board shall submit to the Secretary a report 
-identifying the evidence found to reach such positive association 
-determinations.
-    ``(2) In addition to submitting reports under paragraph (1), the 
-Board shall submit to the Secretary reports, at such times and at such 
-frequencies as the Board considers appropriate, containing such 
-recommendations as the Board may have for additional or new research on 
-matters relating to toxic exposures described in subsection (b)(1).
-    ``(d) Responses From the Secretary.--(1) In response to each report 
-received by the Secretary under subsection (c)(1), the Secretary shall 
-submit to the Committees on Veterans' Affairs of the Senate and the 
-House of Representatives, and make publicly available, a report on the 
-findings and opinions of the Secretary with respect to the report 
-received under such subsection.
-    ``(2) Each report submitted under paragraph (1) of this subsection 
-shall include, with respect to a report received under subsection 
-(c)(1), the following:
-            ``(A) The findings and opinions of the Secretary with 
-        respect to the report received under subsection (c)(1).
-            ``(B) Whether the Secretary intends to nominate to the 
-        Working Group, established under section 1174(a) of this title, 
-        the work of the Science Review Board covered by the report 
-        received under subsection (c)(1) for further action, and if 
-        not, an explanation of why, including citations and sources.
-``Sec. 1174. Working group on presumptions of service connection
-    ``(a) Establishment.--The Secretary shall establish a working group 
-(in this section referred to as the `Working Group') to--
-            ``(1) evaluate--
-                    ``(A) the conclusions of the Science Review Board 
-                contained in each report submitted under section 
-                1173(c)(1) of this title; and
-                    ``(B) evidence nominated by the Formal Advisory 
-                Committee on Toxic Exposure under section 1172(d)(2) 
-                regarding the periods and locations of exposure covered 
-                by an existing presumption of service connection; and
-            ``(2) develop and submit to the Secretary a recommendation 
-        with respect to whether--
-                    ``(A) to establish a presumption of service 
-                connection for the toxic exposure and illness covered 
-                by the report described in subparagraph (A) of 
-                paragraph (1); or
-                    ``(B) to modify an existing presumption of service 
-                connection described in subparagraph (B) of such 
-                paragraph.
-    ``(b) Recommendations.--(1) In making a recommendation under 
-subsection (a)(2), the Working Group shall--
-            ``(A) in cases where the evidence for a positive 
-        association is categorized as either the sufficient or 
-        equipoise and above categories, as described in subparagraph 
-        (A) or (B) of section 1173(b)(2) of this title, weigh such 
-        evidence heavily in favor of establishing a presumption of 
-        service connection;
-            ``(B) take into consideration such factors as may be 
-        determined appropriate by the Secretary; and
-            ``(C) if the Working Group determines that additional 
-        research, studies, or reports are appropriate before making a 
-        final recommendation with respect to establishing or modifying 
-        a presumption of service connection, submit to the Secretary a 
-        description of such appropriate additional research, studies, 
-        or reports.
-    ``(2) At the same time as when the Working Group submits to the 
-Secretary a recommendation under paragraph (2) of subsection (a) with 
-respect to an evaluation under paragraph (1) of such subsection, the 
-Working Group shall submit to the Committees on Veterans' Affairs of 
-the Senate and the House of Representatives a description of such 
-recommendation.
-    ``(c) Report.--The Secretary shall periodically publish on the 
-internet website of the Department a report identifying any factors for 
-the Working Group to consider under subsection (b)(1)(B), as determined 
-appropriate by the Secretary.
-``Sec. 1175. Regulations regarding presumptions of service connection 
+    ``(d) Recommendation for Rulemaking.--Not later than 120 days after 
+the date on which a formal evaluation is commenced, the element of the 
+Department that conducts the evaluation shall submit to the Secretary a 
+recommendation with respect to establishing a presumption of service 
+connection for the toxic exposure and illness, or modifying an existing 
+presumption of service connection, covered by the evaluation.
+``Sec. 1174. Regulations regarding presumptions of service connection 
               based on toxic exposure
-    ``(a) Action Upon Working Group Recommendation.--Not later than 60 
-days after the date on which the Secretary receives a recommendation to 
-establish or modify a presumption of service connection under section 
-1174(a)(2) of this title--
+    ``(a) Action Upon Recommendation.--Not later than 160 days after 
+the date on which the Secretary receives a recommendation to establish 
+or modify a presumption of service connection under section 1173 of 
+this title--
             ``(1) if the Secretary determines that the presumption, or 
-        modification, is warranted, the Secretary shall issue proposed 
-        regulations setting forth the presumption or revise regulations 
-        to carry out such modification; or
+        modification, is warranted, the Secretary shall commence 
+        issuing regulations in accordance with the provisions of 
+        subchapter II of chapter 5 of title 5 (commonly referred to as 
+        the Administrative Procedures Act) setting forth the 
+        presumption or commence revising regulations to carry out such 
+        modification; or
             ``(2) if the Secretary determines that the presumption, or 
         modification, is not warranted, the Secretary shall publish in 
         the Federal Register a notice of the determination, including 
         the reasons supporting the determination.
-    ``(b) Final Regulation.--Not later than 180 days after the date on 
-which the Secretary issues any proposed regulations under subsection 
-(a)(1), the Secretary shall issue final regulations. Such regulations 
-shall be effective on the date of issuance.
-    ``(c) Removal of Presumption.--(1) The Secretary may issue 
+    ``(b) Removal of Presumption.--(1) The Secretary may issue 
 regulations to remove an illness from a presumption of service 
 connection previously established pursuant to a regulation issued under 
-subsection (b).
+subsection (a).
     ``(2) Whenever an illness is removed from regulations pursuant to 
 paragraph (1), or the periods and locations of exposure covered by a 
 presumption of service connection are modified under subsection (a)--
@@ -618,21 +864,50 @@ presumption of service connection are modified under subsection (a)--
         and indemnity compensation for the death of a veteran resulting 
         from such illness on the basis of such presumption shall 
         continue to be entitled to receive dependency and indemnity 
-        compensation on such basis.''.
-            (2) Clerical amendment.--The table of sections at the 
-        beginning of such chapter is amended by inserting after the 
-        item relating to section 1165 the following new items:
-
- ``subchapter vii--research and determinations relating to presumptions 
-             of service connection based on toxic exposure
-
-``1171. Procedures to determine presumptions of service connection 
-                            based on toxic exposure; definitions.
-``1172. Formal Advisory Committee on Toxic Exposure.
-``1173. Science Review Board.
-``1174. Working group on presumptions of service connection.
-``1175. Regulations regarding presumptions of service connection based 
-                            on toxic exposure.''.
+        compensation on such basis.
+``Sec. 1175. Authority to modify process; congressional oversight
+    ``(a) Authority.--(1) The Secretary may modify the process under 
+which the Secretary conducts formal evaluations under section 1173 of 
+this title and issues regulations under section 1174 if--
+            ``(A) such evaluations cover the evidence, data, and 
+        factors required by subsection (b) of such section 1173; and
+            ``(B) a period of 180 days has elapsed following the date 
+        on which the Secretary submits the notice under paragraph (2) 
+        regarding the modification.
+    ``(2) If the Secretary proposes to modify the process under which 
+the Secretary conducts formal evaluations under section 1173 of this 
+title or issues regulations under section 1174, the Secretary shall 
+submit to the Committees on Veterans' Affairs of the House of 
+Representatives and the Senate a notice of the proposed modifications 
+containing the following:
+            ``(A) A description of the proposed modifications.
+            ``(B) A description of any exceptions to the requirements 
+        of such sections that are proposed because of limited available 
+        scientific evidence, and a description of how such evaluations 
+        will be conducted.
+    ``(b) Reports and Briefings.--(1)(A) Not later than two years after 
+the date of the enactment of the Honoring our Promise to Address 
+Comprehensive Toxics Act of 2021, the Secretary shall submit to the 
+Committees on Veterans' Affairs of the House of Representatives and the 
+Senate a report on the implementation of, and recommendations for, this 
+subchapter.
+    ``(B) The Secretary shall develop the report under subparagraph (A) 
+in consultation with organizations recognized by the Secretary for the 
+representation of veterans under section 5902 of this title and any 
+other entity the Secretary determines appropriate.
+    ``(2) On a quarterly basis during the two-year period beginning on 
+the date of the enactment of the Honoring our Promise to Address 
+Comprehensive Toxics Act of 2021, the Secretary shall provide to the 
+Committees on Veterans' Affairs of the House of Representatives and the 
+Senate a briefing on the implementation of this subchapter.
+    ``(c) Independent Review.--The Secretary shall seek to enter into 
+an agreement with a nongovernmental entity or a federally funded 
+research and development center to conduct a review of the 
+implementation of this subchapter. Not later than 540 days after the 
+date of the enactment of the Honoring our Promise to Address 
+Comprehensive Toxics Act of 2021, the Secretary shall submit to the 
+Committees on Veterans' Affairs of the House of Representatives and the 
+Senate a report containing such review.''.
     (b) Conforming Amendments.--Chapter 11 is amended--
             (1) in section 1116--
                     (A) by striking subsections (b), (c), (d), and (e);
@@ -660,6 +935,11 @@ after the date of the enactment of the Honoring our Promise to Address
 Comprehensive Toxics Act of 2021 regarding a presumption of service 
 connection based on a toxic exposure under this section is made 
 pursuant to subchapter VII of this chapter.''.
+    (c) Rule of Construction.--Nothing in section 1172(a)(2)(A) of 
+title 38, United States Code, as added by subsection (a), shall be 
+construed so as to require the advice and consent of the Senate in the 
+appointment of members of the Formal Advisory Committee on Toxic 
+Exposure.
 
 SEC. 203. REEVALUATION OF CLAIMS FOR COMPENSATION INVOLVING 
               PRESUMPTIONS OF SERVICE CONNECTION.
@@ -668,10 +948,9 @@ SEC. 203. REEVALUATION OF CLAIMS FOR COMPENSATION INVOLVING
 at the end the following new section:
 ``Sec. 1167. Reevaluation of compensation determinations pursuant to 
               changes in presumptions of service connection
-    ``(a) Reevaluation.--Except as provided in subsection (b), whenever 
-a law, including through a regulation or Federal court decision, 
-establishes or modifies a presumption of service connection, the 
-Secretary shall--
+    ``(a) Reevaluation.--Whenever a law, including through a regulation 
+or Federal court decision, establishes or modifies a presumption of 
+service connection, the Secretary shall--
             ``(1) identify all claims for compensation under this 
         chapter that--
                     ``(A) were submitted to the Secretary;
@@ -683,40 +962,31 @@ Secretary shall--
                 claim;
             ``(2) allow for the reevaluation of such claims at the 
         election of the veteran; and
-            ``(3) with respect to claims approved pursuant to such 
-        reevaluation, provide compensation under this chapter effective 
-        as if the establishment or modification of the presumption of 
-        service connection had been in effect on the date of the 
-        submission of the original claim described in paragraph (1).
-    ``(b) Outreach.--With respect to each claim identified under 
-subsection (a), the Secretary shall conduct outreach to inform relevant 
-veterans that they may elect to have a claim be reevaluated in light of 
-the establishment or modification of a presumption of service 
-connection described in such subsection. Such outreach shall include 
-the following:
+            ``(3) notwithstanding section 5110 of this title, with 
+        respect to claims approved pursuant to such reevaluation, 
+        provide compensation under this chapter effective as if the 
+        establishment or modification of the presumption of service 
+        connection had been in effect on the date of the submission of 
+        the original claim described in paragraph (1).
+    ``(b) Outreach.--The Secretary shall conduct outreach to inform 
+relevant veterans that they may elect to have a claim be reevaluated in 
+light of the establishment or modification of a presumption of service 
+connection described in subsection (a). Such outreach shall include the 
+following:
             ``(1) The Secretary shall publish on the internet website 
         of the Department a notice that such veterans may elect to have 
         a claim so reevaluated.
             ``(2) The Secretary shall notify, in writing or by 
         electronic means, veterans service organizations of the ability 
-        of such veterans to elect to have a claim so reevaluated.
-    ``(c) Relation to Other Laws.--The Secretary shall carry out 
-subsection (a) to the degree that doing so does not conflict with any 
-other provision of law.''.
-    (b) Clerical Amendment.--The table of sections at the beginning of 
-chapter 11 of such title is amended by inserting after the item 
-relating to section 1165 the following new item:
-
-``1167. Reevaluation of compensation determinations pursuant to changes 
-                            in presumptions of service connection.''.
-    (c) Application.--Section 1167 of title 38, United States Code, as 
+        of such veterans to elect to have a claim so reevaluated.''.
+    (b) Application.--Section 1167 of title 38, United States Code, as 
 added by subsection (a), shall apply with respect to presumptions of 
 service connection established or modified on or after the date of the 
 enactment of this Act, including pursuant to amendments made by this 
 Act.
 
  TITLE III--IMPROVING THE ESTABLISHMENT OF SERVICE CONNECTION PROCESS 
-                       FOR TOXIC EXPOSED VETERANS
+                       FOR TOXIC-EXPOSED VETERANS
 
 SEC. 301. SHORT TITLE.
 
@@ -725,106 +995,47 @@ Recognition Act''.
 
 SEC. 302. PRESUMPTIONS OF TOXIC EXPOSURE.
 
-    (a) In General.--Subchapter II of chapter 11 is amended by adding 
-at the end the following new section:
+    Subchapter II of chapter 11 is amended by adding at the end the 
+following new section:
 ``Sec. 1119. Presumptions of toxic exposure
-    ``(a) Consideration of Individual Longitudinal Exposure Record 
-Required.--If a veteran submits to the Secretary a claim for 
-compensation for a service-connected disability under section 1110 of 
-this title with evidence of a disability and a toxic exposure that 
-occurred during active military, naval, or air service, the Secretary 
-shall, in adjudicating such claim, consider--
-            ``(1) the Individual Longitudinal Exposure Record of the 
-        veteran; and
-            ``(2) if the Individual Longitudinal Exposure Record of the 
-        veteran does not indicate that the veteran was subject to a 
-        toxic exposure during active military, naval, or air service, 
+    ``(a) Consideration of Records.--If a veteran submits to the 
+Secretary a claim for compensation for a service-connected disability 
+under section 1110 of this title with evidence of a disability and a 
+toxic exposure that occurred during active military, naval, air, or 
+space service, the Secretary may, in adjudicating such claim, 
+consider--
+            ``(1) any record of the veteran in an exposure tracking 
+        record system; and
+            ``(2) if no record of the veteran in an exposure tracking 
+        record system indicates that the veteran was subject to a toxic 
+        exposure during active military, naval, air, or space service, 
         the totality of the circumstances of the service of the 
         veteran.
     ``(b) Presumption of Specific Toxic Exposure for Members Who Served 
 in Certain Locations.--(1) The Secretary shall, for purposes of section 
 1110 and chapter 17 of this title, presume that any covered veteran was 
-exposed to the substances, chemicals, and hazards listed in paragraph 
-(2) during the service of the covered veteran specified in subsection 
-(c)(1), unless there is affirmative evidence to establish that the 
-covered veteran was not exposed to any such substances, chemicals, or 
-hazards in connection with such service.
-    ``(2)(A) Subject to subparagraph (B), the substances, chemicals, 
-and airborne hazards listed in this paragraph are as follows:
-            ``(i) Particulate matter, including the following:
-                    ``(I) PM-10.
-                    ``(II) PM-2.5.
-            ``(ii) Polycyclic aromatic hydrocarbons (PAHs), including 
-        the following:
-                    ``(I) Acenaphthene.
-                    ``(II) Acenaphthylene.
-                    ``(III) Anthracene.
-                    ``(IV) Benzo(a)anthracene.
-                    ``(V) Benzo(a)pyrene.
-                    ``(VI) Benzo(b)fluoranthene.
-                    ``(VII) Benzo(g,h,i)perylene.
-                    ``(VIII) Benzo(k)fluoranthene.
-                    ``(IX) Chrysene.
-                    ``(X) Dibenz(a,h)anthracene.
-                    ``(XI) Fluoranthene.
-                    ``(XII) Fluorene.
-                    ``(XIII) Indeno(1,2,3-cd)pyrene.
-                    ``(XIV) Naphthalene.
-                    ``(XV) Phenanthrene.
-                    ``(XVI) Pyrene.
-            ``(iii) Volatile organic compounds (VOCs), including the 
-        following:
-                    ``(I) Acetone.
-                    ``(II) Acrolein.
-                    ``(III) Benzene.
-                    ``(IV) Carbon Disulfide.
-                    ``(V) Chlorodifluoromethane.
-                    ``(VI) Chloromethane.
-                    ``(VII) Ethylbenzene.
-                    ``(VIII) Hexachlorobutadiene.
-                    ``(IX) Hexane.
-                    ``(X) m/p-Xylene.
-                    ``(XI) Methylene Chloride.
-                    ``(XII) Pentane.
-                    ``(XIII) Propylene.
-                    ``(XIV) Styrene.
-                    ``(XV) Toluene.
-            ``(iv) Toxic organic halogenated dioxins and furans 
-        (dioxins), including the following:
-                    ``(I) 1,2,3,4,6,7,8 HPCDD.
-                    ``(II) 1,2,3,4,6,7,8 HPCDF.
-                    ``(III) 1,2,3,4,7,8,9 HPCDF.
-                    ``(IV) 1,2,3,4,7,8 HXCDD.
-                    ``(V) 1,2,3,6,7,8 HXCDD.
-                    ``(VI) 1,2,3,7,8,9 HXCDD.
-                    ``(VII) 1,2,3,4,7,8 HXCDF.
-                    ``(VIII) 1,2,3,6,7,8 HXCDF.
-                    ``(IX) 1,2,3,7,8,9 HXCDF.
-                    ``(X) 1,2,3,7,8 PECDD.
-                    ``(XI) 1,2,3,7,8 PECDF.
-                    ``(XII) 2,3,4,6,7,8 HXCDF.
-                    ``(XIII) 2,3,4,7,8 PECDF.
-                    ``(XIV) 2,3,7,8 TCDD.
-                    ``(XV) 2,3,7,8 TCDF.
-                    ``(XVI) Octachlorodibenzodioxin.
-                    ``(XVII) Octachlorodibenzofuran.
-            ``(v) Such other substances, chemicals, and airborne 
-        hazards as the Secretary, in collaboration with the Secretary 
-        of Defense, may determine appropriate.
-    ``(B)(i) The Secretary may add to or remove from the list under 
-subparagraph (A) as the Secretary, in collaboration with the Secretary 
-of Defense, determines appropriate.
-    ``(ii) Beginning not later than two years after the date of the 
+exposed to the substances, chemicals, and airborne hazards identified 
+in the list under paragraph (2) during the service of the covered 
+veteran specified in subsection (c)(1), unless there is affirmative 
+evidence to establish that the covered veteran was not exposed to any 
+such substances, chemicals, or hazards in connection with such service.
+    ``(2) The Secretary shall establish and maintain a list that 
+contains an identification of one or more such substances, chemicals, 
+and airborne hazards as the Secretary, in collaboration with the 
+Secretary of Defense, may determine appropriate for purposes of this 
+section.
+    ``(3) Beginning not later than two years after the date of the 
 enactment of the Honoring our Promise to Address Comprehensive Toxics 
 Act of 2021, and not less frequently than once every two years 
-thereafter, the Secretary shall submit to Congress a report identifying 
-any additions or removals made pursuant to subparagraph (A) during the 
-period covered by the report.
+thereafter, the Secretary shall submit to the Committees on Veterans' 
+Affairs of the House of Representatives and the Senate a report 
+identifying any additions or removals to the list under paragraph (2) 
+during the period covered by the report.
     ``(c) Definitions.--In this section:
             ``(1) The term `covered veteran' means any veteran who--
                     ``(A) on or after August 2, 1990, performed active 
-                military, naval, or air service while assigned to a 
-                duty station in--
+                military, naval, air, or space service while assigned 
+                to a duty station in--
                             ``(i) Bahrain;
                             ``(ii) Iraq;
                             ``(iii) Kuwait;
@@ -834,8 +1045,8 @@ period covered by the report.
                             ``(vii) Somalia; or
                             ``(viii) United Arab Emirates; or
                     ``(B) on or after September 11, 2001, performed 
-                active military, naval, or air service while assigned 
-                to a duty station in--
+                active military, naval, air, or space service while 
+                assigned to a duty station in--
                             ``(i) Afghanistan;
                             ``(ii) Djibouti;
                             ``(iii) Egypt;
@@ -847,25 +1058,22 @@ period covered by the report.
                             ``(ix) the Philippines; or
                             ``(x) any other country determined relevant 
                         by the Secretary.
-            ``(2) The term `Individual Longitudinal Exposure Record' 
-        includes any pilot program or other program used by the 
-        Department of Veterans Affairs or the Department of Defense to 
-        track how members of the Armed Forces or veterans have been 
-        exposed to various occupational or environmental hazards.
+            ``(2) The term `exposure tracking record system'--
+                    ``(A) means any system, program, or pilot program 
+                used by the Secretary of Veterans Affairs or the 
+                Secretary of Defense to track how veterans or members 
+                of the Armed Forces have been exposed to various 
+                occupational or environmental hazards; and
+                    ``(B) includes the Individual Longitudinal Exposure 
+                Record, or successor system.
             ``(3) The term `toxic exposure risk activity' has the 
         meaning given such term in section 1710(e)(4) of this title.''.
-    (b) Clerical Amendment.--The table of sections at the beginning of 
-chapter 11 is amended by inserting after the item relating to section 
-1118 the following new item:
-
-``1119. Presumptions of toxic exposure.''.
 
 SEC. 303. MEDICAL NEXUS EXAMINATIONS FOR TOXIC EXPOSURE RISK 
               ACTIVITIES.
 
-    (a) In General.--Subchapter VI of chapter 11, as amended by section 
-203 of this Act, is further amended by adding at the end the following 
-new section:
+    Subchapter VI of chapter 11, as amended by section 203, is further 
+amended by adding at the end the following new section:
 ``Sec. 1168. Medical nexus examinations for toxic exposure risk 
               activities
     ``(a) Medical Examinations and Medical Opinions.--(1) Except as 
@@ -873,32 +1081,34 @@ provided in subsection (b), if a veteran submits to the Secretary a
 claim for compensation for a service-connected disability under section 
 1110 of this title with evidence of a disability and evidence of 
 participation in a toxic exposure risk activity during active military, 
-naval, or air service, and such evidence is not sufficient to establish 
-a service connection for the disability, the Secretary shall--
+naval, air, or space service, and such evidence is not sufficient to 
+establish a service connection for the disability, the Secretary 
+shall--
             ``(A) provide the veteran with a medical examination under 
         section 5103A(d) of this title; and
-            ``(B) request a medical opinion as to whether it is at 
-        least as likely as not that there is a nexus between the 
-        disability and the toxic exposure risk activity.
-    ``(2) When providing the Secretary with a medical opinion requested 
-under paragraph (1), the health care provider shall consider the total 
-potential exposure through all applicable military deployments, and the 
-synergistic, combined effect of all applicable toxic exposure risk 
-activities.
+            ``(B) obtain a medical opinion (to be requested by the 
+        Secretary in connection with the medical examination under 
+        subparagraph (A)) as to whether it is at least as likely as not 
+        that there is a nexus between the disability and the toxic 
+        exposure risk activity.
+    ``(2) When providing the Secretary with a medical opinion under 
+paragraph (1)(B) for a veteran, the health care provider shall 
+consider--
+            ``(A) the total potential exposure through all applicable 
+        military deployments of the veteran; and
+            ``(B) the synergistic, combined effect of all toxic 
+        exposure risk activities of the veteran.
+    ``(3) The requirement under paragraph (2)(B) shall not be construed 
+as requiring a health care provider to consider the synergistic, 
+combined effect of each of the substances, chemicals, and airborne 
+hazards identified in the list under section 1119(b)(2) of this title.
     ``(b) Exception.--Subsection (a) shall not apply if the Secretary 
 determines there is no indication of an association between the 
 disability claimed by the veteran and the toxic exposure risk activity 
 for which the veteran submitted evidence.
     ``(c) Toxic Exposure Risk Activity Defined.--In this section, the 
-term `toxic exposure risk activity' has the meaning given such term in 
+term `toxic exposure risk activity' has the meaning given that term in 
 section 1710(e)(4) of this title.''.
-    (b) Clerical Amendment.--The table of sections at the beginning of 
-chapter 11 of such title, as amended by title II of this Act, is 
-further amended by inserting after the item relating to section 1167, 
-as added by such title, the following new item:
-
-``1168. Medical nexus examinations for toxic exposure risk 
-                            activities.''.
 
               TITLE IV--PRESUMPTIONS OF SERVICE CONNECTION
 
@@ -916,20 +1126,28 @@ the end the following new clause:
                 31, 1980.''.
 
 SEC. 402. TREATMENT OF VETERANS WHO PARTICIPATED IN NUCLEAR RESPONSE 
-              NEAR PALOMARES, SPAIN, AS RADIATION-EXPOSED VETERANS FOR 
-              PURPOSES OF PRESUMPTION OF SERVICE CONNECTION OF CERTAIN 
-              DISABILITIES BY DEPARTMENT OF VETERANS AFFAIRS.
+              NEAR PALOMARES, SPAIN, OR THULE, GREENLAND, AS RADIATION-
+              EXPOSED VETERANS FOR PURPOSES OF PRESUMPTION OF SERVICE 
+              CONNECTION OF CERTAIN DISABILITIES BY DEPARTMENT OF 
+              VETERANS AFFAIRS.
 
-    (a) Short Title.--This section may be cited as the ``Palomares 
-Veterans Act''.
-    (b) Palomares.--Section 1112(c)(3)(B), as amended by section 401, 
-is further amended by adding at the end the following new clause:
+    (a) Short Title.--This section may be cited as the ``Palomares or 
+Thule Veterans Act''
+    (b) Palomares or Thule.--Section 1112(c)(3)(B), as amended by 
+section 401, is further amended by adding at the end the following new 
+clauses:
                     ``(vi) Onsite participation in the response effort 
                 following the collision of a United States Air Force B-
                 52 bomber and refueling plane that caused the release 
                 of four thermonuclear weapons in the vicinity of 
                 Palomares, Spain, during the period beginning January 
-                17, 1966, and ending March 31, 1967.''.
+                17, 1966, and ending March 31, 1967.
+                    ``(vii) Onsite participation in the response effort 
+                following the on-board fire and crash of a United 
+                States Air Force B-52 bomber that caused the release of 
+                four thermonuclear weapons in the vicinity of Thule Air 
+                Force Base, Greenland, during the period beginning 
+                January 21, 1968, and ending September 25, 1968.''.
 
 SEC. 403. PRESUMPTIONS OF SERVICE CONNECTION FOR DISEASES ASSOCIATED 
               WITH EXPOSURES TO CERTAIN HERBICIDE AGENTS FOR VETERANS 
@@ -939,17 +1157,19 @@ SEC. 403. PRESUMPTIONS OF SERVICE CONNECTION FOR DISEASES ASSOCIATED
 Orange Exposure Equity Act''.
     (b) In General.--Section 1116, as amended by section 202, is 
 further amended--
-            (1) by striking ``, during active military, naval, or air 
-        service, served in the Republic of Vietnam during the period 
+            (1) by striking ``, during active military, naval, air, or 
+        space service, served in the Republic of Vietnam during the 
+        period beginning on January 9, 1962, and ending on May 7, 
+        1975'' each place it appears and inserting ``performed covered 
+        service'';
+            (2) by striking ``performed active military, naval, air, or 
+        space service in the Republic of Vietnam during the period 
         beginning on January 9, 1962, and ending on May 7, 1975'' each 
-        place it appears and inserting ``performed covered service'';
-            (2) by striking ``performed active military, naval, or air 
-        service in the Republic of Vietnam during the period beginning 
-        on January 9, 1962, and ending on May 7, 1975'' each place it 
-        appears and inserting ``performed covered service''; and
+        place it appears and inserting ``performed covered service''; 
+        and
             (3) by adding at the end the following new subsection:
     ``(d) In this section, the term `covered service' means active 
-military, naval, or air service--
+military, naval, air, or space service--
             ``(1) performed in the Republic of Vietnam during the 
         period beginning on January 9, 1962, and ending on May 7, 1975;
             ``(2) performed in Thailand at any United States or Royal 
@@ -969,8 +1189,8 @@ military, naval, or air service--
         during the period beginning on January 1, 1972, and ending on 
         September 30, 1977.''.
     (c) Eligibility for Hospital Care and Medical Services.--Section 
-1710(e)(4), as amended by section 103, is further amended by striking 
-subparagraph (A) and inserting the following new subparagraph:
+1710(e)(4), as amended by section 102(c), is further amended by 
+striking subparagraph (A) and inserting the following new subparagraph:
             ``(A) The term `Vietnam-era herbicide-exposed veteran' 
         means a veteran who--
                     ``(i) performed covered service, as defined in 
@@ -980,18 +1200,9 @@ subparagraph (A) and inserting the following new subparagraph:
                 such service to a toxic substance found in a herbicide 
                 or defoliant used for military purposes during such 
                 period.''.
-    (d) Clerical Amendments.--
-            (1) Section heading.--The heading for section 1116 is 
-        amended by striking ``the Republic of Vietnam'' and inserting 
-        ``certain locations''.
-            (2) Table of sections.--The table of sections at the 
-        beginning of chapter 11 is amended by striking the item 
-        relating to section 1116 and inserting the following new item:
-
-``1116. Presumptions of service connection for diseases associated with 
-                            exposure to certain herbicide agents; 
-                            presumption of exposure for veterans who 
-                            served in certain locations.''.
+    (d) Conforming Amendment.--The heading for section 1116 is amended 
+by striking ``the Republic of Vietnam'' and inserting ``certain 
+locations''.
 
 SEC. 404. ADDITION OF ADDITIONAL DISEASES ASSOCIATED WITH EXPOSURE TO 
               CERTAIN HERBICIDE AGENTS FOR WHICH THERE IS A PRESUMPTION 
@@ -1022,14 +1233,15 @@ further amended--
         (b) and (c), respectively; and
             (3) in subsection (a)(2)(C), by striking ``under subsection 
         (d)'' and inserting ``under subsection (c)''.
-    (c) Establishing Singular Disability-Based Questionnaire.--Such 
+    (c) Establishing Singular Disability-based Questionnaire.--Such 
 section is further amended by inserting after subsection (c) (as 
 redesignated by subsection (b)) the following new subsection (d):
     ``(d) If a Persian Gulf veteran at a medical facility of the 
 Department presents with any one symptom associated with Gulf War 
 Illness, the Secretary shall ensure that health care personnel of the 
 Department use a disability benefits questionnaire, or successor 
-questionnaire, to identify Gulf War Illness.''.
+questionnaire, designed to identify Gulf War Illness, in addition to 
+any other diagnostic actions the personnel determine appropriate.''.
     (d) Expansion of Definition of Persian Gulf Veteran.--Subsection 
 (f) of such section is amended by inserting ``, Afghanistan, Israel, 
 Egypt, Turkey, Syria, or Jordan,'' after ``operations''.
@@ -1048,17 +1260,17 @@ SEC. 406. PRESUMPTION OF SERVICE CONNECTION FOR CERTAIN DISEASES
     (a) Short Title.--This section may be cited as the ``Presumptive 
 Benefits for War Fighters Exposed to Burn Pits and Other Toxins Act''.
     (b) In General.--Subchapter II of chapter 11, as amended by section 
-303(a), is further amended by inserting after section 1119 the 
-following new section:
+302, is further amended by inserting after section 1119 the following 
+new section:
 ``Sec. 1120. Presumption of service connection for certain diseases 
               associated with exposure to burn pits and other toxins
     ``(a) Presumption of Service Connection.--For the purposes of 
 section 1110 of this title, and subject to section 1113 of this title, 
 a disease specified in subsection (b) becoming manifest in a covered 
 veteran shall be considered to have been incurred in or aggravated 
-during active military, naval, or air service, notwithstanding that 
-there is no record of evidence of such disease during the period of 
-such service.
+during active military, naval, air, or space service, notwithstanding 
+that there is no record of evidence of such disease during the period 
+of such service.
     ``(b) Diseases Specified.--The diseases specified in this 
 subsection are the following:
             ``(1) Asthma that was diagnosed after service of the 
@@ -1092,49 +1304,78 @@ subsection are the following:
         determines, pursuant to regulations prescribed under subchapter 
         VII that a presumption of service connection is warranted based 
         on a positive association with a substance, chemical, or 
-        airborne hazard specified in section 1119(b)(2) of this title.
+        airborne hazard identified in the list under section 1119(b)(2) 
+        of this title.
     ``(c) Covered Veteran Defined.--In this section, the term `covered 
 veteran' has the meaning given that term in section 1119(c) of this 
 title.''.
-    (c) Clerical Amendment.--The table of sections at the beginning of 
-chapter 11, as amended by section 302(b), is further amended by 
-inserting after the item relating to section 1119 the following new 
-item:
-
-``1120. Presumption of service connection for certain diseases 
-                            associated with exposure to burn pits and 
-                            other toxins.''.
-    (d) Conforming Amendment.--Section 1113 is amended by striking ``or 
+    (c) Conforming Amendment.--Section 1113 is amended by striking ``or 
 1118'' each place it appears and inserting ``1118, or 1120''.
 
                        TITLE V--RESEARCH MATTERS
 
-SEC. 501. COORDINATION BY DEPARTMENT OF VETERANS AFFAIRS OF TOXIC 
-              EXPOSURE RESEARCH.
+SEC. 501. INTERAGENCY WORKING GROUP ON TOXIC EXPOSURE RESEARCH.
 
-    (a) In General.--Subchapter II of chapter 73 is amended by adding 
-at the end the following new section:
-``Sec. 7330D. Coordination of toxic exposure research
-    ``(a) In General.--The Secretary shall coordinate all research 
-activities carried out or funded by the executive branch of the Federal 
-Government on the health consequences of toxic exposures experienced 
-during service in the Armed Forces.
-    ``(b) Strategic Plan.--In carrying out subsection (a), the 
-Secretary shall establish a strategic plan, to be known as the Toxic 
-Exposure Research Strategic Plan, to ensure that the research 
-activities specified in such subsection are collaborative, transparent, 
-and highly coordinated.
-    ``(c) Report.--Not later than one year after the date of the 
-enactment of the Honoring our Promise to Address Comprehensive Toxics 
-Act of 2021, and annually thereafter, the Secretary shall submit to the 
-Committee on Veterans' Affairs of the House of Representatives and the 
-Senate a report on any research activities specified in subsection (a) 
-carried out during the year covered by the report.''.
+    (a) In General.--Subchapter II of chapter 73 of title 38, United 
+States Code, is amended by adding at the end the following new section:
+``Sec. 7330D. Interagency working group on toxic exposure research
+    ``(a) Establishment.--(1) The Secretary shall establish the Toxic 
+Exposure Research Working Group (in this section referred to as the 
+`Working Group').
+    ``(2) The Working Group shall consist of employees, selected by the 
+Secretary, of the following:
+            ``(A) The Department.
+            ``(B) The Department of Defense.
+            ``(C) The Department of Health and Human Services.
+            ``(D) The Environmental Protection Agency.
+            ``(E) Other Federal entities involved in research 
+        activities regarding the health consequences of toxic exposures 
+        experienced during active military, naval, air, or space 
+        service.
+    ``(b) Functions.--The Working Group shall perform the following 
+functions:
+            ``(1) Identify collaborative research activities and 
+        resources available among entities represented by members of 
+        the Working Group to conduct such collaborative research 
+        activities.
+            ``(2) Develop a 5-year strategic plan for Federal entities 
+        represented in the Working Group to carry out collaborative 
+        research activities.
+    ``(c) Reporting.--The Secretary shall submit, to the Committees on 
+Veterans' Affairs of the Senate and House of Representatives, the 
+following:
+            ``(1) Not later than one year after the date of the 
+        enactment of the Act, a report on the establishment of the 
+        Working Group under subsection (a).
+            ``(2) Not later than two years after the date of enactment 
+        of the Act, a report containing the collaborative research 
+        activities identified, and the Strategic Plan developed, by the 
+        Working Group, under subsection (b).
+            ``(3) Annually during the 5-year period covered by the 
+        strategic plan under subsection (b), a progress reports on 
+        implementation of the Strategic Plan under subsection (b).
+    ``(d) Termination.--The Working Group shall terminate after 
+submitting the final report under subsection (c).
+    ``(e) Definitions.--For purposes of this section--
+            ``(1) The term `Act' means the Honoring our Promise to 
+        Address Comprehensive Toxics Act of 2021.
+            ``(2) The term `collaborative research activity' means a 
+        research activity--
+                    ``(A) conducted by an entity represented by a 
+                member of the Working Group;
+                    ``(B) funded by the Federal Government; and
+                    ``(C) regarding the health consequences of toxic 
+                exposures experienced during active military, naval, 
+                air, or space service.''.
     (b) Clerical Amendment.--The table of sections at the beginning of 
 such subchapter is amended by inserting after the item relating to 
 section 7330C the following new item:
 
-``7330D. Coordination of toxic exposure research.''.
+``7330D. Interagency working group on toxic exposure research.''.
+    (c) Implementation.--The Secretary of Veterans Affairs shall 
+establish the Working Group under section 7330D of such title, as added 
+by subsection (a), not later than one year after the date of the 
+enactment of this Act.
 
 SEC. 502. DATA COLLECTION, ANALYSIS, AND REPORT ON TREATMENT OF 
               VETERANS FOR ILLNESSES RELATED TO TOXIC EXPOSURE.
@@ -1142,7 +1383,8 @@ SEC. 502. DATA COLLECTION, ANALYSIS, AND REPORT ON TREATMENT OF
     (a) In General.--The Secretary of Veterans Affairs shall compile 
 and analyze, on a continuous basis, all clinical data that--
             (1) is obtained by the Secretary in connection with 
-        hospital care, medical services, or nursing home care furnished 
+        hospital care (including mental health services and 
+        counseling), medical services, or nursing home care furnished 
         to a veteran for an illness under section 1710(a)(2)(F) of 
         title 38, United States Code, as amended by section 102; and
             (2) is likely to be scientifically useful, as determined by 
@@ -1155,7 +1397,7 @@ manner that is consistent with the informed consent of the veteran and
 in compliance with all applicable Federal law.
     (c) Annual Report.--Not later than one year after the date of the 
 enactment of this Act, and annually thereafter, the Secretary shall 
-submit to the Committee on Veterans' Affairs of the House of 
+submit to the Committees on Veterans' Affairs of the House of 
 Representatives and the Senate a report containing--
             (1) any data compiled under subsection (a);
             (2) an analysis of any such data;
@@ -1239,7 +1481,16 @@ SEC. 504. STUDY ON HEALTH TRENDS OF POST 9/11 VETERANS.
     (a) Study.--The Secretary of Veterans Affairs shall conduct an 
 epidemiological study on the health trends of veterans who served in 
 the Armed Forces after September 11, 2001.
-    (b) Report.--Not later than two years after the date of the 
+    (b) Elements.--The study under subsection (a) shall assess, with 
+respect to each veteran included in the study, the following:
+            (1) The race and ethnicity of the veteran.
+            (2) The age of the veteran.
+            (3) The period of service and length of service of the 
+        veteran in the Armed Forces.
+            (4) Any military occupational speciality of the veteran.
+            (5) The gender of the veteran.
+            (6) The disability status of the veteran.
+    (c) Report.--Not later than two years after the date of the 
 enactment of this Act, the Secretary shall submit to the Committees on 
 Veterans' Affairs of the House of Representatives and the Senate a 
 report on the study under subsection (a).
@@ -1247,16 +1498,20 @@ report on the study under subsection (a).
 SEC. 505. STUDY ON CANCER RATES AMONG VETERANS.
 
     (a) Study.--The Secretary of Veterans Affairs shall conduct a study 
-on the incidence of cancer in veterans to determine trends in the rates 
-of the incidence of cancer in veterans.
+on the incidence of cancer in veterans, to determine trends in the 
+rates of the incidence of cancer in veterans, and on available early 
+detection diagnostics, to determine the feasibility and advisability of 
+including such diagnostics as part of the health care furnished to 
+veterans by the Secretary.
     (b) Elements.--The study under subsection (a) shall assess, with 
 respect to each veteran included in the study, the following:
-            (1) The age of the veteran.
-            (2) The period of service and length of service of the 
+            (1) The race and ethnicity of the veteran.
+            (2) The age of the veteran.
+            (3) The period of service and length of service of the 
         veteran in the Armed Forces.
-            (3) Any military occupational speciality of the veteran.
-            (4) The gender of the veteran.
-            (5) Any type of cancer that the veteran has.
+            (4) Any military occupational speciality of the veteran.
+            (5) The gender of the veteran.
+            (6) Any type of cancer that the veteran has.
     (c) Report.--Not later than two years after the date of the 
 enactment of this Act, the Secretary shall submit to the Committees on 
 Veterans' Affairs of the House of Representatives and the Senate a 
@@ -1303,8 +1558,7 @@ with the most recent decade.
 Department of Defense.--In conducting the study under subsection (a), 
 the Secretary shall--
             (1) review known cases of toxic exposure on military 
-        installations of the Department of Defense located in the 
-        United States;
+        installations of the Department of Defense;
             (2) analyze the liability of the Department of Defense in 
         each such case; and
             (3) assess whether the Secretary of Defense should provide 
@@ -1322,7 +1576,7 @@ on the study conducted under subsection (a).
             (3) The term ``qualifying dependent'' means--
                     (A) a dependent of a veteran described in section 
                 1710(e)(1)(G) of title 38, United States Code, as added 
-                by section 103(a)(1), who resided with the veteran 
+                by section 104(a)(1), who resided with the veteran 
                 during the period in which, and on the installation at 
                 which, the veteran participated in a toxic exposure 
                 risk activity;
@@ -1338,11 +1592,214 @@ on the study conducted under subsection (a).
         term in section 101 of such title, as added by section 102(b).
             (5) The term ``toxic exposure risk activity'' has the 
         meaning given that term in section 1710(e)(4) of such title, as 
-        added by section 103(a)(3).
+        added by section 102(c).
             (6) The term ``TRICARE program'' has the meaning given that 
         term in section 1072 of such title.
 
-TITLE VI--IMPROVEMENT OF RESOURCES AND TRAINING REGARDING TOXIC EXPOSED 
+SEC. 507. STUDY ON HEALTH EFFECTS OF WASTE RELATED TO MANHATTAN PROJECT 
+              ON CERTAIN VETERANS.
+
+    (a) Study.--The Secretary of Veterans Affairs shall conduct a study 
+on the health trends of veterans who, while serving in the active 
+military, naval, air, or space service--
+            (1) participated in activities relating to the Manhattan 
+        Project (including activities relating to covered waste) in 
+        connection with such service; or
+            (2) resided at or near, as determined by the Secretary, the 
+        locations described in subsection (b).
+    (b) Covered Locations.--The locations described in this subsection 
+are the following locations in the county of St. Louis, Missouri:
+            (1) Coldwater Creek.
+            (2) The St. Louis Airport Site.
+            (3) The West Lake Landfill.
+            (4) Any other location in the county of St. Louis, Missouri 
+        that is proximate to covered waste, as determined by the 
+        Secretary.
+    (c) Elements.--The study under subsection (a) shall assess, with 
+respect to each veteran included in the study, the following:
+            (1) The age, gender, and race of the veteran.
+            (2) The period and location of exposure to covered waste.
+            (3) Any type of cancer, or other illness associated with 
+        toxic exposure, that the veteran has.
+            (4) A comparison of the overall health condition of the 
+        veteran, including any illness of the veteran identified 
+        pursuant to paragraph (3), with the overall health condition of 
+        past and present civilian populations residing at the same 
+        location of exposure.
+    (d) Report.--Not later than one year after the date of the 
+enactment of this Act, the Secretary shall submit to the Committees on 
+Veterans' Affairs of the House of Representatives and the Senate a 
+report on the study under subsection (a).
+    (e) Definitions.--In this section:
+            (1) The term ``covered waste'' means any waste arising from 
+        activities carried out in connection with the Manhattan 
+        Project.
+            (2) The term ``illness'' has the meaning given that term in 
+        section 1171 of title 38, United States Code, as added by 
+        section 202.
+            (3) The term ``toxic exposure'' has the meaning given that 
+        term in section 101 of such title, as added by section 102(b).
+
+SEC. 508. STUDY ON TOXIC EXPOSURE AND MENTAL HEALTH OUTCOMES.
+
+    (a) Study Required.--The Secretary of the Department of Veterans 
+Affairs shall enter into an agreement with the National Academies of 
+Sciences, Engineering, and Medicine for the conduct of a study of 
+veterans to assess possible relationships between toxic exposures 
+experienced during service in the Armed Forces and mental health 
+outcomes, including chronic multisymptom illness, traumatic brain 
+injury, post-traumatic stress disorder, depression, psychosis, suicide 
+attempts, and suicide deaths.
+    (b) Elements.--For each veteran included in the study under 
+subsection (a), the following information shall be collected and 
+assessed:
+            (1) Age.
+            (2) Gender.
+            (3) Race and ethnicity.
+            (4) Period and length of service in the Armed Forces.
+            (5) History of toxic exposure during service in the Armed 
+        Forces.
+            (6) Any diagnosis of chronic multisymptom illness.
+            (7) Any diagnosis of a mental health or cognitive disorder.
+            (8) Any history of suicide attempt or suidcidality.
+            (9) If the veteran died by suicide.
+    (c) Report.--Not later than two years after the date after the 
+enactment of this Act, the Secretary shall submit to the Committees on 
+Veterans' Affairs of the Senate and House of Representatives a report 
+containing the findings of the study conducted under subsection (a).
+
+SEC. 509. STUDY ON VETERANS IN TERRITORIES OF THE UNITED STATES.
+
+    (a) GAO Study.--
+            (1) In general.--The Comptroller General of the United 
+        States shall conduct a study on the state of access and 
+        barriers to benefits and services furnished under laws 
+        administered by the Secretary of Veterans Affairs to veterans 
+        in Territories of the United States, including deficits in the 
+        availability and accessibility of such benefits and services 
+        compared to veterans elsewhere in the United States.
+            (2) Elements.--The study under paragraph (1) shall 
+        include--
+                    (A) the number of veterans in each Territory of the 
+                United States;
+                    (B) the number of veterans in each Territory who 
+                are enrolled in the system of annual patient enrollment 
+                of the Department of Veterans Affairs under section 
+                1705(a) of title 38, United States Code;
+                    (C) the number of veterans in each Territory who 
+                are eligible for services under section 1710 of such 
+                title but who are not enrolled as described in 
+                subparagraph (B);
+                    (D) a detailed description of obstacles facing 
+                veterans in each Territory in accessing health care 
+                services, including those involving the availability of 
+                such services to veterans in the Territory in which the 
+                veterans reside, and the distance required of veterans 
+                to journey to receive services at a regional medical 
+                center of the Veterans Health Administration, a 
+                community-based outpatient clinic, or other full-
+                service medical facility of the Department, or death 
+                center, respectively;
+                    (E) a detailed description of obstacles facing 
+                veterans in each Territory in accessing readjustment 
+                counseling services, including those involving the 
+                availability of such services to veterans in the 
+                Territory in which the veterans reside, and the 
+                distance required of veterans to journey to receive 
+                services at a readjustment counseling services center 
+                of the Department;
+                    (F) a detailed description of obstacles facing 
+                veterans in each Territory in accessing other veterans 
+                benefits, including those involving the availability of 
+                benefits and services to veterans in the Territory in 
+                which the veterans reside, and the distance required of 
+                the veterans to journey to the nearest office of the 
+                Veterans Benefits Administration;
+                    (G) an analysis of the staffing and recordkeeping 
+                levels and quality of the offices of the Department 
+                charged with serving veterans in the Territories, 
+                including the availability of the full- and part-time 
+                staff of each office to the veterans they are charged 
+                with serving, and the continuity of care provided by 
+                such staff to such veterans;
+                    (H) an analysis of the availability of the Veterans 
+                Community Care Program established under section 1703 
+                of title 38, United States Code, to veterans in each 
+                Territory;
+                    (I) an analysis of the economic and health 
+                consequences for veterans in each Territory resulting 
+                from obstacles to accessing adequate assistance and 
+                health care at facilities of the Department;
+                    (J) an analysis of the access to assistance and 
+                health care provided to veterans in the aftermath of 
+                major disasters declared in each of the Territories 
+                since September 4, 2017; and
+                    (K) recommendations for improving access of 
+                veterans in the Territories to benefits and services 
+                furnished by the Secretary, and reducing barriers and 
+                deficits in the availability and accessibility of such 
+                benefits and services compared to veterans elsewhere in 
+                the United States.
+    (b) Report.--Not later than one year after the date of the 
+enactment of this Act, the Comptroller General of the United States 
+shall submit to Congress a final report setting forth the results of 
+the study conducted under subsection (a), including the recommendations 
+developed under paragraph (2)(K) of such subsection.
+    (c) Territory Defined.--In this section, the term ``Territory'' 
+includes American Samoa, the Commonwealth of the Northern Marianas 
+Islands, Guam, Puerto Rico, and the Virgin Islands.
+
+SEC. 510. DEPARTMENT OF VETERANS AFFAIRS PUBLIC WEBSITE FOR TOXIC 
+              EXPOSURE RESEARCH.
+
+    (a) Website.--Not later than one year after the date of the 
+enactment of this Act, the Secretary of Veterans Affairs shall 
+establish, and maintain thereafter, a publically accessible internet 
+website of the Department of Veterans Affairs that serves as a 
+clearinghouse for the publication of all toxic exposure research 
+carried out or funded by the executive branch of the Federal 
+Government.
+    (b) Relation to War Related Illness and Injury Study Center.--The 
+website developed and maintained under subsection (a) shall be housed 
+under the website of the War Related Illness and Injury Study Center of 
+the Department of Veterans Affairs, or successor center.
+    (c) Coordination.--In carrying out subsection (a), the Secretary 
+shall coordinate with--
+            (1) the heads of each Federal department or agency carrying 
+        out or funding toxic exposure research;
+            (2) the War Related Illness and Injury Study Center of the 
+        Department of Veterans Affairs, or successor center; and
+            (3) any working group of the Department of Veterans Affairs 
+        or other similar entity responsible for coordinating toxic 
+        exposure research.
+    (d) Definitions.--In this section:
+            (1) The term ``toxic exposure'' has the meaning given that 
+        term in section 101 of title 38, United States Code, as added 
+        by section 102(b).
+            (2) The term ``toxic exposure research'' means research on 
+        the health consequences of toxic exposures experienced during 
+        service in the Armed Forces.
+
+SEC. 511. BIENNIAL REPORT ON HEALTH EFFECTS OF JET FUELS USED BY ARMED 
+              FORCES.
+
+    Not later than one year after the date of the enactment of this 
+Act, and biennially thereafter during the subsequent eight-year period, 
+the Secretary of Veterans Affairs shall submit to the Committees on 
+Veterans' Affairs of the House of Representatives and the Senate, and 
+make publicly available, a report that includes--
+            (1) a discussion of the effect of various different types 
+        of jet fuels used by the Armed Forces on the health of 
+        individuals by length of exposure;
+            (2) an identification of the immediate symptoms of jet fuel 
+        exposure that may indicate future health risks;
+            (3) a chronology of health safeguards implemented by the 
+        Armed Forces intended to reduce the exposure of members of the 
+        Armed Foces to jet fuel; and
+            (4) an identification of any areas relating to jet fuel 
+        exposure about which new research needs to be conducted.
+
+TITLE VI--IMPROVEMENT OF RESOURCES AND TRAINING REGARDING TOXIC-EXPOSED 
                                 VETERANS
 
 SEC. 601. SHORT TITLE; DEFINITIONS.
@@ -1350,12 +1807,12 @@ SEC. 601. SHORT TITLE; DEFINITIONS.
     (a) Short Title.--This title may be cited as the ``Toxic Exposure 
 in the American Military Act'' or the ``TEAM Act''.
     (b) Definitions.--In this title, the terms ``active military, 
-naval, or air service'', ``toxic exposure'', and ``toxic exposed 
+naval, air, or space service'', ``toxic exposure'', and ``toxic-exposed 
 veteran'' have the meanings given those terms in section 101 of title 
 38, United States Code.
 
 SEC. 602. PUBLICATION OF LIST OF RESOURCES OF DEPARTMENT OF VETERANS 
-              AFFAIRS FOR TOXIC EXPOSED VETERANS AND OUTREACH PROGRAM 
+              AFFAIRS FOR TOXIC-EXPOSED VETERANS AND OUTREACH PROGRAM 
               FOR SUCH VETERANS AND CAREGIVERS AND SURVIVORS OF SUCH 
               VETERANS.
 
@@ -1364,59 +1821,77 @@ SEC. 602. PUBLICATION OF LIST OF RESOURCES OF DEPARTMENT OF VETERANS
         the enactment of this Act, and annually thereafter, the 
         Secretary of Veterans Affairs shall publish a list of resources 
         of the Department of Veterans Affairs for--
-                    (A) toxic exposed veterans, including with respect 
+                    (A) toxic-exposed veterans, including with respect 
                 to--
                             (i) disability compensation under chapter 
                         11 of title 38, United States Code; and
                             (ii) hospital care, medical services, and 
                         nursing home care under section 1710(a)(2)(F) 
                         of such title;
-                    (B) caregivers of toxic exposed veterans who are 
+                    (B) caregivers of toxic-exposed veterans who are 
                 participating in the program of comprehensive 
                 assistance for family caregivers under section 1720G(a) 
                 of such title; and
-                    (C) survivors of toxic exposed veterans who are 
+                    (C) survivors of toxic-exposed veterans who are 
                 receiving death benefits under the laws administered by 
                 the Secretary.
             (2) Update.--The Secretary shall periodically update the 
         list published under paragraph (1).
+            (3) Languages.--The Secretary shall publish the list under 
+        paragraph (1) in languages including the following:
+                    (A) English.
+                    (B) Spanish.
+                    (C) Chinese.
+                    (D) The seven other most commonly spoken languages 
+                in the United States.
     (b) Outreach.--The Secretary shall develop, with input from the 
 community, an informative outreach program for veterans on illnesses 
 that may be related to toxic exposure, including outreach with respect 
-to benefits and support programs.
+to benefits and support programs. Information distributed under the 
+outreach program shall be treated as a fact sheet of the Department of 
+Veterans Affairs for purposes of making the information available in 
+multiple languages pursuant to section 2 of the Veterans and Family 
+Information Act (Public Law 117-62; 38 U.S.C. 6303 note).
+    (c) Veterans Organizations.--To the extent practicable, the 
+Secretary shall share with national veterans service organizations and 
+other veterans groups, including such organizations and groups that 
+improve access by veterans to health care and benefits, the list of 
+resources under subsection (a) and the outreach program under 
+subsection (b).
 
 SEC. 603. INCORPORATION OF TOXIC EXPOSURE QUESTIONNAIRE DURING PRIMARY 
               CARE APPOINTMENTS.
 
     (a) In General.--The Secretary of Veterans Affairs shall 
 incorporate a clinical questionnaire to help determine potential toxic 
-exposures during active military, naval, or air service as part of the 
-initial screening conducted for an appointment of a veteran with a 
-primary care provider of the Department of Veterans Affairs to improve 
-understanding by the Department of toxic exposures of veterans while 
-serving in the Armed Forces.
+exposures during active military, naval, air, or space service as part 
+of the initial screening conducted for an appointment of a veteran with 
+a primary care provider of the Department of Veterans Affairs to 
+improve understanding by the Department of toxic exposures of veterans 
+while serving in the Armed Forces.
     (b) Determination of Questions.--The questions included in the 
 questionnaire required under subsection (a) shall be determined by the 
 Secretary with input from medical professionals.
 
 SEC. 604. TRAINING FOR PERSONNEL OF THE DEPARTMENT OF VETERANS AFFAIRS 
-              WITH RESPECT TO TOXIC EXPOSED VETERANS.
+              WITH RESPECT TO TOXIC-EXPOSED VETERANS.
 
     (a) Health Care Personnel.--The Secretary of Veterans Affairs shall 
 provide to health care personnel of the Department of Veterans Affairs 
 education and training to identify, treat, and assess the impact on 
-toxic exposed veterans of illnesses related to toxic exposure and 
+toxic-exposed veterans of illnesses related to toxic exposure and 
 inform such personnel of how to ask for additional information from 
 veterans regarding different toxic exposures.
     (b) Benefits Personnel.--
             (1) Standard claims processor training curriculum.--
                     (A) Curriculum.--Not later than 180 days after the 
                 date of the enactment of this Act, the Secretary shall 
-                establish a standard training curriculum for processors 
-                of claims under the laws administered by the Secretary 
-                who review claims for disability benefits relating to 
-                service-connected disabilities based on toxic exposure, 
-                including employees who adjudicate such claims.
+                ensure that a standard training curriculum exists for 
+                processors of claims under the laws administered by the 
+                Secretary who review claims for disability benefits 
+                relating to service-connected disabilities based on 
+                toxic exposure, including employees who adjudicate such 
+                claims.
                     (B) Matters included.--The Secretary shall ensure 
                 that the training under subparagraph (A) includes the 
                 following explanations with respect to claims relating 
@@ -1431,14 +1906,14 @@ veterans regarding different toxic exposures.
                         medical opinion pursuant to section 1168 of 
                         title 38, United States Code, as added by 
                         section 303.
-                            (iii) The claims adjudicator shall always 
-                        review and consider the Individual Longitudinal 
-                        Exposure Record program of the Department of 
-                        Veterans Affairs pursuant to section 1119 of 
-                        such title, as added by section 302, but a lack 
-                        of such information is not by itself sufficient 
-                        to determine that such exposure did not occur 
-                        or sufficient to deny the claim.
+                            (iii) The claims adjudicator may review and 
+                        consider any record of the claimant in an 
+                        exposure tracking record system pursuant to 
+                        section 1119 of such title, as added by section 
+                        302, but a lack of such information is not by 
+                        itself sufficient to determine that such 
+                        exposure did not occur or sufficient to deny 
+                        the claim.
                     (C) Provision of training.--The Secretary shall--
                             (i) provide training under subparagraph (A) 
                         to each employee described in such subparagraph 
@@ -1452,12 +1927,12 @@ veterans regarding different toxic exposures.
             (2) Standard medical examiner training curriculum.--
                     (A) Curriculum.--Not later than 180 days after the 
                 date of the enactment of this Act, the Secretary shall 
-                establish a standard medical training curriculum for 
-                medical providers who conduct examinations and provide 
-                opinions pursuant to section 1168 of title 38, United 
-                States Code, as added by section 303, regardless of 
-                whether the provider is an employee of the Department 
-                or a contractor.
+                ensure that a standard medical training curriculum 
+                exists for medical providers who conduct examinations 
+                and provide opinions pursuant to section 1168 of title 
+                38, United States Code, as added by section 303, 
+                regardless of whether the provider is an employee of 
+                the Department or a contractor.
                     (B) Standardized approach.--The Secretary shall 
                 ensure that the curriculum established under 
                 subparagraph (A)--
@@ -1477,6 +1952,16 @@ veterans regarding different toxic exposures.
                                 multisymptom illnesses; and
                                     (IV) all competent and credible 
                                 evidence of record.
+
+SEC. 605. GUIDELINES FOR ACTIVE DUTY MILITARY ON POTENTIAL RISKS AND 
+              PREVENTION OF TOXIC EXPOSURES.
+
+    Not later than 90 days after the date of the enactment of this Act, 
+the Secretary of Defense and the Secretary of Veterans Affairs shall 
+jointly coordinate and establish guidelines to be used during training 
+of members of the Armed Forces serving on active duty to provide the 
+members awareness of the potential risks of toxic exposures and ways to 
+prevent being exposed during combat.
 
            TITLE VII--REGISTRIES, RECORDS, AND OTHER MATTERS
 
@@ -1508,7 +1993,16 @@ SEC. 701. REGISTRY OF INDIVIDUALS EXPOSED TO PER- AND POLYFLUOROALKYL
         coordinate with the Secretary of Defense in carrying out 
         paragraph (1).
     (b) Reports.--
-            (1) Initial report.--Not later than two years after the 
+            (1) Initial report.--Not later than one year after the date 
+        of the enactment of this Act, the Secretary of Defense shall 
+        submit to Congress a report regarding the following:
+                    (A) Sources of PFAS on military installations other 
+                than AFFF.
+                    (B) Any recommendation of the Secretary regarding 
+                whether to expand eligibility for the registry to 
+                individuals exposed to sources of PFAS described in 
+                subparagraph (A).
+            (2) Interim report.--Not later than two years after the 
         date on which the registry under subsection (a) is established, 
         the Secretary of Veterans Affairs shall submit to Congress an 
         initial report containing the following:
@@ -1523,7 +2017,7 @@ SEC. 701. REGISTRY OF INDIVIDUALS EXPOSED TO PER- AND POLYFLUOROALKYL
                 most effective and prudent means of addressing the 
                 medical needs of eligible individuals with respect to 
                 exposure to PFAS.
-            (2) Followup report.--Not later than five years after 
+            (3) Followup report.--Not later than five years after 
         submitting the initial report under paragraph (1), the 
         Secretary of Veterans Affairs shall submit to Congress a 
         followup report containing the following:
@@ -1532,7 +2026,7 @@ SEC. 701. REGISTRY OF INDIVIDUALS EXPOSED TO PER- AND POLYFLUOROALKYL
                     (B) An assessment of whether and to what degree the 
                 content of the registry established under subsection 
                 (a) is current and scientifically up to date.
-            (3) Independent scientific organization.--The Secretary of 
+            (4) Independent scientific organization.--The Secretary of 
         Veterans Affairs shall enter into an agreement with an 
         independent scientific organization to prepare the reports 
         under paragraphs (1) and (2).
@@ -1624,13 +2118,14 @@ SEC. 703. INDEPENDENT STUDY ON INDIVIDUAL LONGITUDINAL EXPOSURE RECORD.
 enactment of this Act, the Secretary of Defense shall enter into a 
 contract with an independent research entity described in subsection 
 (b) to carry out a comprehensive study of the development of the 
-Individual Longitudinal Exposure Record to determine--
+Individual Longitudinal Exposure Record, or successor system, to 
+determine--
             (1) the quality of the location data, occupational and 
         environmental exposure data, and health surveillance data; and
             (2) whether a member of the Armed Forces can be reasonably 
         assured that any toxic exposure they experience during service 
-        in the Armed Forces will be accurately reflected in the 
-        Individual Longitudinal Exposure Record of the member.
+        in the Armed Forces will be accurately reflected in the record 
+        of the member in such Individual Longitudinal Exposure Record.
     (b) Independent Research Entity.--The entity described in this 
 subsection is an independent research entity that is a not-for-profit 
 entity or a federally funded research and development center with 
@@ -1643,16 +2138,18 @@ exposure'' has the meaning given that term in section 101(37) of title
 SEC. 704. BIANNUAL REPORT ON INDIVIDUAL LONGITUDINAL EXPOSURE RECORD.
 
     (a) In General.--Not later than one year after the date on which 
-the Individual Longitudinal Exposure Record achieves full operation 
-capability, as determined by the Secretary of Defense, and every 180 
-days thereafter, the Secretary shall, in consultation with the 
-Secretary of Veterans Affairs, submit to the appropriate committees of 
-Congress a report on the data quality of the databases of the 
-Department of Defense that provide the information presented in the 
-Individual Longitudinal Exposure Record and the usefulness of the 
-Individual Longitudinal Exposure Record in supporting members of the 
-Armed Forces and veterans in receiving health care and benefits from 
-the Department of Defense and the Department of Veterans Affairs.
+the Individual Longitudinal Exposure Record, or successor system, 
+achieves full operation capability, as determined by the Secretary of 
+Defense, and every 180 days thereafter, the Secretary of Defense, in 
+consultation with the Secretary of Veterans Affairs, shall submit to 
+the appropriate committees of Congress a report on--
+            (1) the data quality of the databases of the Department of 
+        Defense that provide the information presented in such 
+        Individual Longitudinal Exposure Record; and
+            (2) the usefulness of such Individual Longitudinal Exposure 
+        Record in supporting members of the Armed Forces and veterans 
+        in receiving health care and benefits from the Department of 
+        Defense and the Department of Veterans Affairs.
     (b) Elements.--Each report required by subsection (a) shall 
 include, for the period covered by the report, the following:
             (1) An identification of toxic exposure events that may not 
@@ -1664,7 +2161,17 @@ include, for the period covered by the report, the following:
         members of the Armed Forces and veterans, and recommendations 
         for how to improve the quality of that location data if 
         necessary.
-    (c) Definitions.--In this section:
+    (c) Report on National Guard Use of ILER.--Not later than one year 
+after the date of the enactment of this Act, the Secretary of Defense 
+shall submit to the appropriate committees of Congress a report on the 
+feasibility of modifying the Individual Longitudinal Exposure Record to 
+ensure that a member of the National Guard who is deployed in the 
+United States in connection with a natural disaster, without regard to 
+duty status (including any duty under title 10 or title 32, United 
+States Code, or State active duty), may record information regarding a 
+suspected exposure by the member to toxic substances during such 
+deployment.
+    (d) Definitions.--In this section:
             (1) Appropriate committees of congress.--The term 
         ``appropriate committees of Congress'' means--
                     (A) the Committee on Armed Services and the 
@@ -1679,55 +2186,705 @@ include, for the period covered by the report, the following:
 SEC. 705. CORRECTION OF EXPOSURE RECORDS BY MEMBERS OF THE ARMED FORCES 
               AND VETERANS.
 
-    (a) In General.--The Secretary of Defense and the Secretary of 
-Veterans Affairs shall provide a means for members of the Armed Forces 
-and veterans to update their records as necessary to reflect a toxic 
-exposure by such member or veteran in the Individual Longitudinal 
-Exposure Record.
+    (a) In General.--The Secretary of Defense shall provide a means for 
+members of the Armed Forces and veterans to update their records as 
+necessary to reflect a toxic exposure by such member or veteran in the 
+Individual Longitudinal Exposure Record, or successor system.
     (b) Evidence.--
             (1) Provision of evidence.--To update a record under 
         subsection (a), a member of the Armed Forces or veteran, as the 
         case may be, shall provide such evidence as the Secretary of 
-        Defense and the Secretary of Veterans Affairs jointly consider 
-        necessary.
+        Defense considers necessary.
             (2) Benefit of the doubt.--In reviewing evidence provided 
-        under paragraph (1), the Secretary of Defense and the Secretary 
-        of Veterans Affairs shall give the benefit of the doubt to the 
-        member of the Armed Forces or veteran who provided the 
-        evidence, as the case may be, in a manner that is equivalent to 
-        the benefit of the doubt required under section 5107(b) of 
-        title 38, United States Code.
-            (3) Regulations.--The Secretary of Veterans Affairs, in 
-        consultation with the Secretary of Defense, shall prescribe by 
-        regulation the evidence considered necessary under paragraph 
+        under paragraph (1), the Secretary of Defense shall give the 
+        benefit of the doubt to the member of the Armed Forces or 
+        veteran who provided the evidence, as the case may be, in a 
+        manner that is equivalent to the benefit of the doubt required 
+        under section 5107(b) of title 38, United States Code.
+            (3) Regulations.--The Secretary of Defense shall prescribe 
+        by regulation the evidence considered necessary under paragraph 
         (1).
     (c) Toxic Exposure Defined.--In this section, the term ``toxic 
 exposure'' has the meaning given that term in section 101(37) of title 
 38, United States Code, as added by section 102(b).
-                                                 Union Calendar No. 179
 
+SEC. 706. FEDERAL CAUSE OF ACTION RELATING TO WATER AT CAMP LEJEUNE, 
+              NORTH CAROLINA.
+
+    (a) In General.--An individual, including a veteran (as defined in 
+section 101 of title 38, United States Code), or the legal 
+representative of such an individual, who resided, worked, or was 
+otherwise exposed (including in utero exposure) for not less than 30 
+days during the period beginning on August 1, 1953, and ending on 
+December 31, 1987, to water at Camp Lejeune, North Carolina, that was 
+supplied by, or on behalf of, the United States may bring an action in 
+the United States District Court for the Eastern District of North 
+Carolina to obtain appropriate relief for harm that was caused by 
+exposure to the water at Camp Lejeune.
+    (b) Burdens and Standard of Proof.--
+            (1) In general.--The burden of proof shall be on the party 
+        filing the action to show one or more relationships between the 
+        water at Camp Lejeune and the harm.
+            (2) Standards.--To meet the burden of proof described in 
+        paragraph (1), a party shall produce evidence showing that the 
+        relationship between exposure to the water at Camp Lejeune and 
+        the harm is--
+                    (A) sufficient to conclude that a causal 
+                relationship exists; or
+                    (B) sufficient to conclude that a causal 
+                relationship is at least as likely as not.
+    (c) Exclusive Jurisdiction and Venue.--The United States District 
+Court for the Eastern District of North Carolina shall have exclusive 
+jurisdiction over any action filed under subsection (a), and shall be 
+the exclusive venue for such an action. Nothing in this subsection 
+shall impair the right of any party to a trial by jury.
+    (d) Exclusive Remedy.--
+            (1) In general.--An individual, or legal representative of 
+        an individual, who brings an action under this section for a 
+        harm described in subsection (a), including a latent disease, 
+        may not thereafter bring a tort action against the United 
+        States for such harm pursuant to any other law.
+            (2) Health and disability benefits relating to water 
+        exposure.--Any award made to an individual, or legal 
+        representative of an individual, under this section shall be 
+        offset by the amount of any disability award, payment, or 
+        benefit provided to the individual, or legal representative--
+                    (A) under--
+                            (i) any program under the laws administered 
+                        by the Secretary of Veterans Affairs;
+                            (ii) the Medicare program under title XVIII 
+                        of the Social Security Act (42 U.S.C. 1395 et 
+                        seq.); or
+                            (iii) the Medicaid program under title XIX 
+                        of the Social Security Act (42 U.S.C. 1396 et 
+                        seq.); and
+                    (B) in connection with health care or a disability 
+                relating to exposure to the water at Camp Lejeune.
+    (e) Immunity Limitation.--The United States may not assert any 
+claim to immunity in an action under this section that would otherwise 
+be available under section 2680(a) of title 28, United States Code.
+    (f) No Punitive Damages.--Punitive damages may not be awarded in 
+any action under this section.
+    (g) Disposition by Federal Agency Required.--An individual may not 
+bring an action under this section before complying with section 2675 
+of title 28, United States Code.
+    (h) Exception for Combatant Activities.--This section does not 
+apply to any claim or action arising out of the combatant activities of 
+the Armed Forces.
+    (i) Applicability; Period for Filing.--
+            (1) Applicability.--This section shall apply only to a 
+        claim accruing before the date of enactment of this Act.
+            (2) Statute of limitations.--A claim in an action under 
+        this section may not be commenced after the later of--
+                    (A) the date that is two years after the date of 
+                enactment of this Act; or
+                    (B) the date that is 180 days after the date on 
+                which the claim is denied under section 2675 of title 
+                28, United States Code.
+            (3) Inapplicability of other limitations.--Any applicable 
+        statute of repose or statute of limitations, other than under 
+        paragraph (2), shall not apply to a claim under this section.
+
+SEC. 707. VETERANS TOXIC EXPOSURES FUND.
+
+    Chapter 3 is amended by adding at the end the following new 
+section:
+``Sec. 324. Veterans Toxic Exposures Fund
+    ``(a) Establishment.--There is hereby established in the Treasury 
+of the United States an account to be known as the ``Veterans Toxic 
+Exposures Fund'' (the ``Fund''), to be administered through the 
+Department of Veterans Affairs, to provide for investment in the 
+delivery of veterans' health care, research, and benefits associated 
+with hazardous exposure in service.
+    ``(b) Authorization of Appropriations.--There is authorized to be 
+appropriated to the Fund for fiscal year 2023 and each subsequent 
+fiscal year such sums as are necessary to increase funding, over the 
+fiscal year 2021 level for the Veterans Health Administration of the 
+Department of Veterans Affairs, for any expenses incident to the 
+delivery of veterans' health care and benefits associated with exposure 
+to environmental hazards in service, including administrative expenses, 
+such as claims processing and appeals, and for medical research related 
+to hazardous exposures. Amounts appropriated to the Fund pursuant to 
+this subsection shall be counted as direct spending under the 
+Congressional Budget and Impoundment Control Act of 1974 and any other 
+Act.
+    ``(c) Estimates for Congressional Consideration.--The Secretary 
+shall include in documents submitted to Congress in support of the 
+President's budget submitted pursuant to section 1105 of title 31, 
+United States Code, detailed estimates of the sums described in 
+subsection (b) for the applicable fiscal year.
+    ``(d) Procedures for Estimates.--The Secretary, after consultation 
+with the Committees on Appropriations of the House of Representatives 
+and the Senate, may establish policies and procedures for developing 
+the annual detailed estimates required in subsection (c).''.
+
+SEC. 708. AUTHORIZATION OF ELECTRONIC NOTICE IN CLAIMS UNDER LAWS 
+              ADMINISTERED BY THE SECRETARY OF VETERANS AFFAIRS.
+
+    Title 38, United States Code, is amended as follows:
+            (1) By striking section 5100 and inserting the following:
+``Sec. 5100. Definitions
+    ``In this chapter:
+            ``(1) The term `claimant' means any individual applying 
+        for, or submitting a claim for, any benefit under the laws 
+        administered by the Secretary.
+            ``(2) The term `notice' means a communication issued 
+        through means (including electronic means) prescribed by the 
+        Secretary.''.
+            (2) In section 5104, by adding at the end the following new 
+        subsection:
+    ``(c) The Secretary may provide notice under subsection (a) 
+electronically if a claimant (or the claimant's representative) elects 
+to receive such notice electronically. A claimant (or the claimant's 
+representative) may revoke such an election at any time, by means 
+prescribed by the Secretary.
+    ``(d) The Secretary shall annually--
+            ``(1) solicit recommendations from stakeholders on how to 
+        improve notice under this section; and
+            ``(2) publish such recommendations on a publicly available 
+        website of the Department.''.
+            (3) In section 5104B(c), in the matter preceding paragraph 
+        (1) by striking ``in writing'' and inserting ``to the claimant 
+        (and any representative of such claimant)''.
+            (4) In section 7104--
+                    (A) in the heading, by adding ``; decisions; 
+                notice'' at the end; and
+                    (B) by striking subsection (e) and inserting the 
+                following:
+    ``(e) After reaching a decision on an appeal, the Board shall 
+promptly issue notice (as that term is defined in section 5100 of this 
+title) of such decision to the following:
+            ``(1) The appellant.
+            ``(2) Any other party with a right to notice of such 
+        decision.
+            ``(3) Any authorized representative of the appellant or 
+        party described in paragraph (2).
+    ``(f) The Secretary may provide notice under subsection (e) 
+electronically if a claimant (or the claimant's representative) elects 
+to receive such notice electronically. A claimant (or the claimant's 
+representative) may revoke such an election at any time, by means 
+prescribed by the Secretary.''.
+            (5) In section 7105(b)(1)(A), by striking ``mailing'' and 
+        inserting ``issuance''.
+            (6) In section 7105A(a), by striking ``mailed'' and 
+        inserting ``issued''.
+            (7) In section 7266(a), by striking ``mailed'' and 
+        inserting ``issued''.
+
+SEC. 709. AUTHORIZATION OF APPROPRIATIONS FOR EXPANSION OF CLAIMS 
+              AUTOMATION.
+
+    There is authorized to be appropriated to the Secretary of Veterans 
+Affairs $30,000,000 for fiscal year 2023 to support expected increased 
+claims processing for newly eligible veterans pursuant to this Act and 
+the amendments made by this Act by--
+            (1) supporting the automation of processing claims by the 
+        Veterans Benefits Administration of the Department of Veterans 
+        Affairs;
+            (2) adding self-service features to the system by which 
+        individuals file claims;
+            (3) removing duplicative efforts regarding the processing 
+        of claims; and
+            (4) reducing the dependency of the Department on the legacy 
+        claim system.
+
+SEC. 710. NON-APPLICABILITY OF NON-DEPARTMENT OF VETERANS AFFAIRS 
+              COVENANTS NOT TO COMPETE TO APPOINTMENT OF VETERANS 
+              HEALTH ADMINISTRATION PERSONNEL.
+
+    (a) In General.--Subchapter I of chapter 74 of title 38, United 
+States Code, is amended by adding at the end the following new section:
+``Sec. 7414. Effect of non-Department covenants not to compete
+    ``(a) Non-Applicability.--Except as provided in subsection (b), in 
+the case of an individual who is an applicant for appointment to a 
+position in the Veterans Health Administration described in section 
+7401 of this title, any covenant not to compete into which the 
+individual has entered with a non-Department facility or party shall 
+have no force or effect with respect to the appointment of the 
+individual to such a position.
+    ``(b) Service Obligation.--(1) Any individual who is appointed to 
+such a position in the Veterans Health Administration shall, as a 
+condition of such appointment, agree to provide clinical services at a 
+Department medical facility for the duration of the period described in 
+paragraph (2).
+    ``(2) The period described in this paragraph is the period that 
+begins on the date on which an individual is appointed to such a 
+position and ends on the latter of the following dates:
+            ``(A) The date that is one year after such date of 
+        appointment.
+            ``(B) The date of the termination of any covenant not to 
+        compete entered into between the individual and a non-
+        Department facility or party.
+    ``(3) The Secretary may waive the requirement under paragraph (1) 
+with respect to an individual at the discretion of the Secretary.
+    ``(c) Termination of Department Employment.--In the case of an 
+individual who is appointed to such a position in the Veterans Health 
+Administration who has entered into a covenant not to compete that is 
+rendered non-applicable pursuant to subsection (a), if the individual's 
+employment at the Veterans Health Administration is terminated for any 
+reason before the specified termination date of such covenant, 
+subsection (a) shall not apply with respect to such covenant after the 
+date of the termination of the individual's employment at the Veterans 
+Health Administration.
+    ``(d) Covenant Not To Compete.--In this section, the term `covenant 
+not to compete' means an agreement--
+            ``(1) between an employee and employer or a contractor and 
+        principal that restricts such employee or contractor from 
+        performing--
+                    ``(A) any work for another employer for a specified 
+                period of time;
+                    ``(B) any work in a specified geographical area; or
+                    ``(C) work for another employer performing work 
+                that is similar to the work such employee or contractor 
+                performed for the employer or principal, included as a 
+                party to the agreement; and
+            ``(2) that is entered into after the date of enactment of 
+        this Act.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+such chapter is amended by inserting after the item relating to section 
+7413 the following new item:
+
+``7414. Effect of non-Department covenants not to compete.''.
+
+SEC. 711. RECRUITMENT OF PHYSICIANS ON A CONTINGENT BASIS PRIOR TO 
+              COMPLETION OF TRAINING REQUIREMENTS.
+
+    Section 7402 of title 38, United States Code, is amended--
+            (1) in subsection (b)(1)--
+                    (A) in the matter preceding subparagraph (A) by 
+                inserting ``or to be offered an appointment to such 
+                position on a contingent basis under subsection (h)'' 
+                after ``position''; and
+                    (B) by striking subparagraph (B) and inserting the 
+                following:
+            ``(B)(i) have completed a residency leading to board 
+        eligibility in a specialty, satisfactory to the Secretary; or
+            ``(ii) with respect to an offer for an appointment on a 
+        contingent basis under subsection (h), complete such a 
+        residency by not later than two years after the date of such 
+        offer; and''; and
+            (2) by adding at the end the following new subsection:
+    ``(h)(1) The Secretary may appoint an individual under subsection 
+(b)(1) on a contingent basis in accordance with this subsection if the 
+Secretary reasonably anticipated that the individual will have 
+completed the requirements for appointment under such subsection (b)(1) 
+by not later than two years after the date on which the individual is 
+so appointed.
+    ``(2) An individual who is appointed to a position on a contingent 
+basis under paragraph (1) shall be appointed to such position on a 
+permanent basis if, by not later than two years after the date of the 
+contingent appointment, the individual completes all the requirements 
+for appointment under subsection (b)(1).
+    ``(3) An individual who is appointed on a contingent basis under 
+paragraph (1) who fails to complete the requirements for appointment 
+under subsection (b)(1) by not later than two years after the date on 
+which the individual is so appointed may not be appointed to such 
+position on a permanent basis.''.
+
+SEC. 712. AUTHORITY FOR SECRETARY OF VETERANS AFFAIRS TO AWARD GRANTS 
+              TO STATES TO IMPROVE OUTREACH TO VETERANS.
+
+    (a) In General.--Chapter 63 of title 38, United States Code, is 
+amended--
+            (1) by redesignating sections 6307 and 6308 and sections 
+        6308 and 6309, respectively; and
+            (2) by inserting after section 6306 the following new 
+        section 6307:
+``Sec. 6307. Grants to States to improve outreach to veterans
+    ``(a) Purpose.--It is the purpose of this section to provide for 
+assistance by the Secretary to States to carry out programs that--
+            ``(1) improve outreach and assistance to veterans and the 
+        spouses, children, and parents of veterans, to ensure that such 
+        individuals are fully informed about any veterans and veterans-
+        related benefits and programs (including State veterans 
+        programs) for which they may be eligible; and
+            ``(2) facilitate opportunities for such individuals to 
+        receive competent, qualified services in the preparation, 
+        presentation, and prosecution of veterans benefits claims.
+    ``(b) Authority.--The Secretary may award grants to States--
+            ``(1) to carry out, coordinate, improve, or otherwise 
+        enhance outreach activities;
+            ``(2) to increase the number of county or tribal veterans 
+        service officers serving in the State by hiring new, additional 
+        such officers; or
+            ``(3) to expand, carry out, coordinate, improve, or 
+        otherwise enhance existing programs, activities, and services 
+        of the State's existing organization that has been recognized 
+        by the Department of Veterans Affairs pursuant to section 5902, 
+        in the preparation, presentation, and prosecution of claims for 
+        veterans benefits through representatives who hold positions as 
+        county or Tribal veterans service officers.
+    ``(c) Application.--(1) To be eligible for a grant under this 
+section, a State shall submit to the Secretary an application therefor 
+at such time, in such manner, and containing such information as the 
+Secretary may require.
+    ``(2) Each application submitted under paragraph (1) shall include 
+the following:
+            ``(A) A detailed plan for the use of the grant.
+            ``(B) A description of the programs through which the State 
+        will meet the outcome measures developed by the Secretary under 
+        subsection (i).
+            ``(C) A description of how the State will distribute grant 
+        amounts equitably among counties (or Tribal lands, as the case 
+        may be) with varying levels of urbanization.
+            ``(D) A plan for how the grant will be used to meet the 
+        unique needs of American Indian or Alaska Native veterans, 
+        elderly veterans, women veterans, and veterans from other 
+        underserved communities.
+    ``(d) Distribution.--The Secretary shall seek to ensure that grants 
+awarded under this section are equitably distributed among States with 
+varying levels of urbanization.
+    ``(e) Priority.--The Secretary shall prioritize awarding grants 
+under this section that will serve the following areas:
+            ``(1) Areas with a critical shortage of county or tribal 
+        veterans service officers.
+            ``(2) Areas with high rates of--
+                    ``(A) suicide among veterans; or
+                    ``(B) referrals to the Veterans Crisis Line.
+    ``(f) Use of County or Tribal Veterans Service Officers.--A State 
+that receives a grant under this section to carry out an activity 
+described in subsection (b)(1) shall carry out the activity through--
+            ``(1) a county or Tribal veterans service officer of the 
+        State; or
+            ``(2) if the State does not have a county or tribal 
+        veterans service officer, or if the county or Tribal veterans 
+        service officers of the State cover only a portion of that 
+        State, an appropriate entity of a State, local, or Tribal 
+        government, or another publicly funded entity, as determined by 
+        the Secretary.
+    ``(g) Required Activities.--Any grant awarded under this section 
+shall be used--
+            ``(1) to expand existing programs, activities, and 
+        services;
+            ``(2) to hire and maintain new, additional county or Tribal 
+        veterans service officers; or
+            ``(3) for travel and transportation to facilitate carrying 
+        out paragraph (1) or (2).
+    ``(h) Other Permissible Activities.--A grant under this section may 
+be used to provide education and training, including on-the-job 
+training, for State, county, local, and tribal government employees who 
+provide (or when trained will provide) veterans outreach services in 
+order for those employees to obtain and maintain accreditation in 
+accordance with procedures approved by the Secretary.
+    ``(i) Outcome Measures.--(1) The Secretary shall develop and 
+provide to each State that receives a grant under this section written 
+guidance on the following:
+            ``(A) Outcome measures.
+            ``(B) Policies of the Department.
+    ``(2) In developing outcome measures under paragraph (1), the 
+Secretary shall consider the following goals:
+            ``(A) Increasing the use of veterans and veterans-related 
+        benefits, particularly among vulnerable populations.
+            ``(B) Increasing the number of county and tribal veterans 
+        service officers recognized by the Secretary for the 
+        representation of veterans under chapter 59 of this title.
+    ``(j) Tracking Requirements.--(1) With respect to each grant 
+awarded under this section, the Secretary shall track the use of 
+veterans benefits among the population served by the grant, including 
+the average period of time between the date on which a veteran or other 
+eligible claimant applies for such a benefit and the date on which the 
+veteran or other eligible claimant receives the benefit, disaggregated 
+by type of benefit.
+    ``(2) Not less frequently than annually during the life of the 
+grant program established under this section, the Secretary shall 
+submit to Congress a report on--
+            ``(A) the information tracked under paragraph (1);
+            ``(B) how the grants awarded under this section serve the 
+        unique needs of American Indian or Alaska Native veterans, 
+        elderly veterans, women veterans, and veterans from other 
+        underserved communities; and
+            ``(C) other information provided by States pursuant to the 
+        grant reporting requirements.
+    ``(k) Performance Review.--(1) The Secretary shall--
+            ``(A) review the performance of each State that receives a 
+        grant under this section; and
+            ``(B) make information regarding such performance publicly 
+        available.
+    ``(l) Remediation Plan.--(1) In the case of a State that receives a 
+grant under this section and does not meet the outcome measures 
+developed by the Secretary under subsection (i), the Secretary shall 
+require the State to submit a remediation plan under which the State 
+shall describe how and when it plans to meet such outcome measures.
+    ``(2) The Secretary may not award a subsequent grant under this 
+section to a State described in paragraph (1) unless the Secretary 
+approves the remediation plan submitted by the State.
+    ``(m) Maximum Amount.--The amount of a grant awarded under this 
+section may not exceed 10 percent of amounts made available for grants 
+under this section for the fiscal year in which the grant is awarded.
+    ``(n) Supplement, Not Supplant.--Any grant awarded under this 
+section shall be used to supplement and not supplant State and local 
+funding that is otherwise available.
+    ``(o) Authorization of Appropriations.--There is authorized to be 
+appropriated to the Secretary for each of fiscal years 2023 through 
+2027, $50,000,000 to carry out this section.
+    ``(p) Definitions.--In this section:
+            ``(1) The term `county or tribal veterans service officer' 
+        includes a local equivalent veterans service officer.
+            ``(2) The term `State' includes each Indian Tribe, the 
+        District of Columbia, the Commonwealth of Puerto Rico, the 
+        Commonwealth of the Northern Mariana Islands, and any territory 
+        or possession of the United States.
+            ``(3) The term `Veterans Crisis Line' means the toll-free 
+        hotline for veterans established under section 1720F(h) of this 
+        title.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+chapter 63 of such title is amended by striking the items relating to 
+sections 6307 and 6308 and inserting the following new items:
+
+``6307. Grants to States to improve outreach to veterans.
+``6308. Outreach for eligible dependents.
+``6309. Biennial report to Congress.''.
+    (c) Authorization of Additional Full-time Equivalent Employee.--
+During fiscal years 2023 through 2027, the Secretary of Veterans 
+Affairs may hire an additional full-time equivalent employee in the 
+Office of the General Counsel of the Department of Veterans Affairs, as 
+compared to the number of full-time equivalent employees that would 
+otherwise be authorized for such office, to carry out duties under the 
+accreditation, discipline, and fees program.
+
+SEC. 713. STUDY AND REPORT ON HERBICIDE AGENT EXPOSURE IN PANAMA CANAL 
+              ZONE.
+
+    (a) Study.--The Secretary of Defense shall conduct a study on the 
+exposure of members of the Armed Forces to herbicide agents, including 
+Agent Orange and Agent Purple, in the Panama Canal Zone during the 
+period beginning on January 1, 1958, and ending on December 31, 1999.
+    (b) Report.--Not later than one year after the date of the 
+enactment of this Act, the Secretary shall submit to Congress a report 
+on the study conducted under subsection (a).
+
+SEC. 714. BUDGET INFORMATION FOR ALTERNATIVES TO BURN PITS.
+
+    The Secretary of Defense shall include in the budget submission of 
+the President under section 1105(a) of title 31, United States Code, 
+for each of fiscal years 2023 through 2027, a dedicated budget line 
+item for incinerators and waste-to-energy waste disposal alternatives 
+to burn pits.
+
+SEC. 715. AUTHORIZATION OF APPROPRIATIONS FOR EXPANSION OF CLAIMS 
+              AUTOMATION.
+
+    There is authorized to be appropriated to the Secretary of Veterans 
+Affairs $150,000,000 for fiscal year 2023 to continue the modernization 
+and expansion of capabilities and capacity of the Veterans Benefits 
+Management System of the Department of Veterans Affairs to support 
+expected increased claims processing for newly eligible veterans 
+pursuant to this Act and the amendments made by this Act.
+
+SEC. 716. BURN PIT REGISTRY UPDATES.
+
+    (a) Individuals Eligible to Update.--
+            (1) In general.--Not later than 180 days after the date of 
+        the enactment of this Act, the Secretary of Veterans Affairs 
+        shall take actions necessary to ensure that the burn pit 
+        registry may be updated with the cause of death of a deceased 
+        registered individual by--
+                    (A) an individual designated by such deceased 
+                registered individual; or
+                    (B) if no such individual is designated, an 
+                immediate family member of such deceased registered 
+                individual.
+            (2) Designation.--The Secretary shall provide, with respect 
+        to the burn pit registry, a process by which a registered 
+        individual may make a designation for purposes of paragraph 
+        (1)(A).
+    (b) Definitions.--In this section:
+            (1) The term ``burn pit registry'' means the registry 
+        established under section 201 of the Dignified Burial and Other 
+        Veterans' Benefits Improvement Act of 2012 (Public Law 112-260; 
+        38 U.S.C. 527 note).
+            (2) The term ``immediate family member'', with respect to a 
+        deceased individual, means--
+                    (A) the spouse, parent, brother, sister, or adult 
+                child of the individual;
+                    (B) an adult person to whom the individual stands 
+                in loco parentis; or
+                    (C) any other adult person--
+                            (i) living in the household of the 
+                        individual at the time of the death of the 
+                        individual; and
+                            (ii) related to the individual by blood or 
+                        marriage.
+            (3) The term ``registered individual'' means an individual 
+        registered with the burn pit registry.
+
+SEC. 717. BURN PIT TRANSPARENCY.
+
+    (a) Short Title.--This section may be cited as the ``SFC Heath 
+Robinson Burn Pit Transparency Act''.
+    (b) Notifications and Reports Regarding Reported Cases of Burn Pit 
+Exposure.--
+            (1) Quarterly notifications.--
+                    (A) In general.--On a quarterly basis, the 
+                Secretary of Veterans Affairs shall submit to the 
+                appropriate congressional committees a report on each 
+                reported case of burn pit exposure by a covered veteran 
+                reported during the previous quarter.
+                    (B) Elements.--Each report submitted under 
+                subparagraph (A) shall include, with respect to each 
+                reported case of burn pit exposure of a covered veteran 
+                included in the report, the following:
+                            (i) Notice of the case, including the 
+                        medical facility at which the case was 
+                        reported.
+                            (ii) Notice of, as available--
+                                    (I) the enrollment status of the 
+                                covered veteran with respect to the 
+                                patient enrollment system of the 
+                                Department of Veterans Affairs under 
+                                section 1705(a) of title 38, United 
+                                States Code;
+                                    (II) a summary of all health care 
+                                visits by the covered veteran at the 
+                                medical facility at which the case was 
+                                reported that are related to the case;
+                                    (III) the demographics of the 
+                                covered veteran, including age, sex, 
+                                and race;
+                                    (IV) any non-Department of Veterans 
+                                Affairs health care benefits that the 
+                                covered veteran receives;
+                                    (V) the Armed Force in which the 
+                                covered veteran served and the rank of 
+                                the covered veteran;
+                                    (VI) the period in which the 
+                                covered veteran served;
+                                    (VII) each location of an open burn 
+                                pit from which the covered veteran was 
+                                exposed to toxic airborne chemicals and 
+                                fumes during such service;
+                                    (VIII) the medical diagnoses of the 
+                                covered veteran and the treatment 
+                                provided to the veteran; and
+                                    (IX) whether the covered veteran is 
+                                registered in the Airborne Hazards and 
+                                Open Burn Pit Registry.
+                    (C) Protection of information.--The Secretary shall 
+                ensure that the reports submitted under subparagraph 
+                (A) do not include the identity of covered veterans or 
+                contain other personally identifiable data.
+            (2) Annual report on cases.--
+                    (A) In general.--Not later than 180 days after the 
+                date of the enactment of this Act, and annually 
+                thereafter, the Secretary of Veterans Affairs, in 
+                collaboration with the Secretary of Defense, shall 
+                submit to the appropriate congressional committees a 
+                report detailing the following:
+                            (i) The total number of covered veterans.
+                            (ii) The total number of claims for 
+                        disability compensation under chapter 11 of 
+                        title 38, United States Code, approved and the 
+                        total number denied by the Secretary of 
+                        Veterans Affairs with respect to a covered 
+                        veteran, and for each such denial, the 
+                        rationale of the denial.
+                            (iii) A comprehensive list of--
+                                    (I) the conditions for which 
+                                covered veterans seek treatment; and
+                                    (II) the locations of the open burn 
+                                pits from which the covered veterans 
+                                were exposed to toxic airborne 
+                                chemicals and fumes.
+                            (iv) Identification of any illnesses 
+                        relating to exposure to open burn pits that 
+                        formed the basis for the Secretary to award 
+                        benefits, including entitlement to service 
+                        connection or an increase in disability rating.
+                            (v) The total number of covered veterans 
+                        who died after seeking care for an illness 
+                        relating to exposure to an open burn pit.
+                            (vi) Any updates or trends with respect to 
+                        the information described in clauses (i), (ii), 
+                        (iii), (iv), and (v) that the Secretary 
+                        determines appropriate.
+                    (B) Matters included in first report.--The 
+                Secretary shall include in the first report under 
+                paragraph (1) information specified in paragraph (1)(B) 
+                with respect to reported cases of burn pit exposure 
+                made during the period beginning January 1, 1990, and 
+                ending on the day before the date of the enactment of 
+                this Act.
+            (3) Information regarding the airborne hazards and open 
+        burn pit registry.--
+                    (A) Notice.--The Secretary of Veterans Affairs 
+                shall ensure that a medical professional of the 
+                Department of Veterans Affairs informs a veteran of the 
+                Airborne Hazards and Open Burn Pit Registry if the 
+                veteran presents at a medical facility of the 
+                Department for treatment that the veteran describes as 
+                being related to, or ancillary to, the exposure of the 
+                veteran to toxic airborne chemicals and fumes caused by 
+                open burn pits.
+                    (B) Display.--In making information public 
+                regarding the number of participants in the Airborne 
+                Hazards and Open Burn Pit Registry, the Secretary shall 
+                display such numbers by both State and by congressional 
+                district.
+            (4) Comptroller general report.--Not later than 180 days 
+        after the date of the enactment of this Act, the Comptroller 
+        General of the United States shall submit to the appropriate 
+        congressional committees a report containing an assessment of 
+        the effectiveness of any memorandum of understanding or 
+        memorandum of agreement entered into by the Secretary of 
+        Veterans Affairs with respect to--
+                    (A) the processing of reported cases of burn pit 
+                exposure; and
+                    (B) the coordination of care and provision of 
+                health care relating to such cases at medical 
+                facilities of the Department of Veterans Affairs and at 
+                non-Department facilities.
+            (5) Definitions.--In this section:
+                    (A) The term ``Airborne Hazards and Open Burn Pit 
+                Registry'' means the registry established by the 
+                Secretary of Veterans Affairs under section 201 of the 
+                Dignified Burial and Other Veterans' Benefits 
+                Improvement Act of 2012 (Public Law 112-260; 38 U.S.C. 
+                527 note).
+                    (B) The term ``appropriate congressional 
+                committees'' means--
+                            (i) the Committee on Veterans' Affairs and 
+                        the Committee on Armed Services of the Senate; 
+                        and
+                            (ii) The Committee on Veterans' Affairs and 
+                        the Committee on Armed Services of the House of 
+                        Representatives.
+                    (C) The term ``covered veteran'' means a veteran 
+                who presents at a medical facility of the Department of 
+                Veterans Affairs (or in a non-Department facility 
+                pursuant to section 1703 or 1703A of title 38, United 
+                States Code) for treatment that the veteran describes 
+                as being related to, or ancillary to, the exposure of 
+                the veteran to toxic airborne chemicals and fumes 
+                caused by open burn pits at any time while serving in 
+                the Armed Forces.
+                    (D) The term ``open burn pit'' has the meaning 
+                given that term in section 201(c) of the Dignified 
+                Burial and Other Veterans' Benefits Improvement Act of 
+                2012 (Public Law 112-260; 38 U.S.C. 527 note).
+                    (E) The term ``reported case of burn pit exposure'' 
+                means each instance in which a veteran presents at a 
+                medical facility of the Department of Veterans Affairs 
+                (or in a non-Department facility pursuant to section 
+                1703 or 1703A of title 38, United States Code) for 
+                treatment that the veteran describes as being related 
+                to, or ancillary to, the exposure of the veteran to 
+                toxic airborne chemicals and fumes caused by open burn 
+                pits at any time while serving in the Armed Forces.
+
+            Passed the House of Representatives March 3, 2022.
+
+            Attest:
+
+                                                                 Clerk.
 117th CONGRESS
 
   2d Session
 
                                H. R. 3967
 
-                      [Report No. 117-249, Part I]
-
 _______________________________________________________________________
 
-                                 A BILL
+                                 AN ACT
 
    To improve health care and benefits for veterans exposed to toxic 
                   substances, and for other purposes.
-
-_______________________________________________________________________
-
-                           February 22, 2022
-
-            Reported from the Committee on Veterans' Affairs
-
-                           February 22, 2022
-
- Committee on Armed Services discharged; committed to the Committee of 
-  the Whole House on the State of the Union and ordered to be printed
